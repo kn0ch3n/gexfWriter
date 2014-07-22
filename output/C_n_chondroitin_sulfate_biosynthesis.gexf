@@ -1,0 +1,2314 @@
+<?xml version="1.0" ?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+	<graph>
+		<attributes class="node">
+			<attribute id="0" title="type" type="string"/>
+			<attribute id="1" title="Female_neglog10_reporter-p_Non-directional" type="float"/>
+			<attribute id="2" title="Female_neglog10_reporter-p_Distinct-directional (up)" type="float"/>
+			<attribute id="3" title="Female_neglog10_reporter-p_Distinct-directional (dn)" type="float"/>
+			<attribute id="4" title="Female_neglog10_reporter-p_Mixed-directional (up)" type="float"/>
+			<attribute id="5" title="Female_neglog10_reporter-p_Mixed-directional (dn)" type="float"/>
+			<attribute id="6" title="Female_inv_ConsRank_Non-directional" type="float"/>
+			<attribute id="7" title="Female_inv_ConsRank_Distinct-directional (up)" type="float"/>
+			<attribute id="8" title="Female_inv_ConsRank_Distinct-directional (dn)" type="float"/>
+			<attribute id="9" title="Female_inv_ConsRank_Mixed-directional (up)" type="float"/>
+			<attribute id="10" title="Female_inv_ConsRank_Mixed-directional (dn)" type="float"/>
+			<attribute id="11" title="Male_neglog10_reporter-p_Non-directional" type="float"/>
+			<attribute id="12" title="Male_neglog10_reporter-p_Distinct-directional (up)" type="float"/>
+			<attribute id="13" title="Male_neglog10_reporter-p_Distinct-directional (dn)" type="float"/>
+			<attribute id="14" title="Male_neglog10_reporter-p_Mixed-directional (up)" type="float"/>
+			<attribute id="15" title="Male_neglog10_reporter-p_Mixed-directional (dn)" type="float"/>
+			<attribute id="16" title="Male_inv_ConsRank_Non-directional" type="float"/>
+			<attribute id="17" title="Male_inv_ConsRank_Distinct-directional (up)" type="float"/>
+			<attribute id="18" title="Male_inv_ConsRank_Distinct-directional (dn)" type="float"/>
+			<attribute id="19" title="Male_inv_ConsRank_Mixed-directional (up)" type="float"/>
+			<attribute id="20" title="Male_inv_ConsRank_Mixed-directional (dn)" type="float"/>
+			<attribute id="21" title="Female_pValue" type="float"/>
+			<attribute id="22" title="Female_log2fc" type="float"/>
+			<attribute id="23" title="Female_tValue" type="float"/>
+			<attribute id="24" title="Female_neglog10pValue" type="float"/>
+			<attribute id="25" title="Male_pValue" type="float"/>
+			<attribute id="26" title="Male_log2fc" type="float"/>
+			<attribute id="27" title="Male_tValue" type="float"/>
+			<attribute id="28" title="Male_neglog10pValue" type="float"/>
+		</attributes>
+		<nodes>
+			<node id="M_m0417" label="[protein]-L-lysine">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="0.397289055042443"/>
+					<attvalue for="10" value="0.00100502512562814"/>
+					<attvalue for="13" value="0.0314563478578863"/>
+					<attvalue for="12" value="0"/>
+					<attvalue for="15" value="0.180535034270496"/>
+					<attvalue for="14" value="0.180535034270496"/>
+					<attvalue for="17" value="0.00044404973357016"/>
+					<attvalue for="16" value="0.00049480455220188"/>
+					<attvalue for="19" value="0.000525210084033613"/>
+					<attvalue for="18" value="0.000600961538461538"/>
+					<attvalue for="20" value="0.000525210084033613"/>
+					<attvalue for="1" value="0.606196742344919"/>
+					<attvalue for="3" value="0.738856132299333"/>
+					<attvalue for="2" value="0"/>
+					<attvalue for="5" value="0.446383940270617"/>
+					<attvalue for="4" value="0.446383940270617"/>
+					<attvalue for="7" value="0.000391389432485323"/>
+					<attvalue for="6" value="0.000662690523525514"/>
+					<attvalue for="9" value="0.00100502512562814"/>
+					<attvalue for="8" value="0.00214592274678112"/>
+				</attvalues>
+			</node>
+			<node id="M_m0429" label="[protein]-N6,N6,N6-trimethyl-L-lysine">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="0.397289055042443"/>
+					<attvalue for="10" value="0.00100502512562814"/>
+					<attvalue for="13" value="0.0314563478578863"/>
+					<attvalue for="12" value="0"/>
+					<attvalue for="15" value="0.180535034270496"/>
+					<attvalue for="14" value="0.180535034270496"/>
+					<attvalue for="17" value="0.00044404973357016"/>
+					<attvalue for="16" value="0.00049480455220188"/>
+					<attvalue for="19" value="0.000525210084033613"/>
+					<attvalue for="18" value="0.000600961538461538"/>
+					<attvalue for="20" value="0.000525210084033613"/>
+					<attvalue for="1" value="0.606196742344919"/>
+					<attvalue for="3" value="0.738856132299333"/>
+					<attvalue for="2" value="0"/>
+					<attvalue for="5" value="0.446383940270617"/>
+					<attvalue for="4" value="0.446383940270617"/>
+					<attvalue for="7" value="0.000391389432485323"/>
+					<attvalue for="6" value="0.000662690523525514"/>
+					<attvalue for="9" value="0.00100502512562814"/>
+					<attvalue for="8" value="0.00214592274678112"/>
+				</attvalues>
+			</node>
+			<node id="M_m0432" label="[protein]-N6,N6-dimethyl-L-lysine">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="0.397289055042443"/>
+					<attvalue for="10" value="0.00100502512562814"/>
+					<attvalue for="13" value="0.0314563478578863"/>
+					<attvalue for="12" value="0"/>
+					<attvalue for="15" value="0.180535034270496"/>
+					<attvalue for="14" value="0.180535034270496"/>
+					<attvalue for="17" value="0.00044404973357016"/>
+					<attvalue for="16" value="0.00049480455220188"/>
+					<attvalue for="19" value="0.000525210084033613"/>
+					<attvalue for="18" value="0.000600961538461538"/>
+					<attvalue for="20" value="0.000525210084033613"/>
+					<attvalue for="1" value="0.606196742344919"/>
+					<attvalue for="3" value="0.738856132299333"/>
+					<attvalue for="2" value="0"/>
+					<attvalue for="5" value="0.446383940270617"/>
+					<attvalue for="4" value="0.446383940270617"/>
+					<attvalue for="7" value="0.000391389432485323"/>
+					<attvalue for="6" value="0.000662690523525514"/>
+					<attvalue for="9" value="0.00100502512562814"/>
+					<attvalue for="8" value="0.00214592274678112"/>
+				</attvalues>
+			</node>
+			<node id="M_m0696" label="14,15-DiHETE">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="0.947767909747666"/>
+					<attvalue for="10" value="0.000328407224958949"/>
+					<attvalue for="13" value="0"/>
+					<attvalue for="12" value="0.261830101936113"/>
+					<attvalue for="15" value="0.492873059629452"/>
+					<attvalue for="14" value="0.492873059629452"/>
+					<attvalue for="17" value="0.000709219858156028"/>
+					<attvalue for="16" value="0.00126422250316056"/>
+					<attvalue for="19" value="0.000809716599190283"/>
+					<attvalue for="18" value="0.000475511174512601"/>
+					<attvalue for="20" value="0.000809716599190283"/>
+					<attvalue for="1" value="0.309945753572323"/>
+					<attvalue for="3" value="0"/>
+					<attvalue for="2" value="0.524357862445299"/>
+					<attvalue for="5" value="0.0226239693450731"/>
+					<attvalue for="4" value="0.0226239693450731"/>
+					<attvalue for="7" value="0.00101522842639594"/>
+					<attvalue for="6" value="0.000398406374501992"/>
+					<attvalue for="9" value="0.000328407224958949"/>
+					<attvalue for="8" value="0.000542005420054201"/>
+				</attvalues>
+			</node>
+			<node id="M_m0707" label="15(R)-HEPE">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="0.881999966578719"/>
+					<attvalue for="10" value="0.000305343511450382"/>
+					<attvalue for="13" value="0"/>
+					<attvalue for="12" value="0.646333767017098"/>
+					<attvalue for="15" value=""/>
+					<attvalue for="14" value=""/>
+					<attvalue for="17" value="0.00274725274725275"/>
+					<attvalue for="16" value="0.00110864745011086"/>
+					<attvalue for="19" value="0.000310462589257994"/>
+					<attvalue for="18" value="0.000475511174512601"/>
+					<attvalue for="20" value="0.000310462589257994"/>
+					<attvalue for="1" value="0.713723213533157"/>
+					<attvalue for="3" value="0"/>
+					<attvalue for="2" value="0.585611673068925"/>
+					<attvalue for="5" value=""/>
+					<attvalue for="4" value=""/>
+					<attvalue for="7" value="0.00233644859813084"/>
+					<attvalue for="6" value="0.0008058017727639"/>
+					<attvalue for="9" value="0.000305343511450382"/>
+					<attvalue for="8" value="0.000542005420054201"/>
+				</attvalues>
+			</node>
+			<node id="M_m0714" label="15(R)-HpEPE">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="0.143192593373382"/>
+					<attvalue for="10" value="0.000305343511450382"/>
+					<attvalue for="13" value="0"/>
+					<attvalue for="12" value="0.228669791700493"/>
+					<attvalue for="15" value=""/>
+					<attvalue for="14" value=""/>
+					<attvalue for="17" value="0.000929368029739777"/>
+					<attvalue for="16" value="0.000350631136044881"/>
+					<attvalue for="19" value="0.000310462589257994"/>
+					<attvalue for="18" value="0.000475511174512601"/>
+					<attvalue for="20" value="0.000310462589257994"/>
+					<attvalue for="1" value="0.0577984188488183"/>
+					<attvalue for="3" value="0"/>
+					<attvalue for="2" value="0.144450559859408"/>
+					<attvalue for="5" value=""/>
+					<attvalue for="4" value=""/>
+					<attvalue for="7" value="0.000593471810089021"/>
+					<attvalue for="6" value="0.000264550264550265"/>
+					<attvalue for="9" value="0.000305343511450382"/>
+					<attvalue for="8" value="0.000542005420054201"/>
+				</attvalues>
+			</node>
+			<node id="M_m0722" label="15(S)-HPETE">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="0.929666544146937"/>
+					<attvalue for="10" value="0.000353481795687522"/>
+					<attvalue for="13" value="0"/>
+					<attvalue for="12" value="0.380604021486466"/>
+					<attvalue for="15" value="0.492873059629452"/>
+					<attvalue for="14" value="0.492873059629452"/>
+					<attvalue for="17" value="0.000957854406130268"/>
+					<attvalue for="16" value="0.00110864745011086"/>
+					<attvalue for="19" value="0.000809716599190283"/>
+					<attvalue for="18" value="0.000475511174512601"/>
+					<attvalue for="20" value="0.000809716599190283"/>
+					<attvalue for="1" value="0.299980272670916"/>
+					<attvalue for="3" value="0"/>
+					<attvalue for="2" value="0.328938291626438"/>
+					<attvalue for="5" value="0.0444709909632765"/>
+					<attvalue for="4" value="0.0444709909632765"/>
+					<attvalue for="7" value="0.000627746390458255"/>
+					<attvalue for="6" value="0.00038109756097561"/>
+					<attvalue for="9" value="0.000353481795687522"/>
+					<attvalue for="8" value="0.000542005420054201"/>
+				</attvalues>
+			</node>
+			<node id="M_m0973" label="2,5-diamino-6-(5-triphosphoryl-3,4-trihydroxy-2-oxopentyl)-amino-4-oxopyrimidine">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="1.63030186105012"/>
+					<attvalue for="10" value="0.008"/>
+					<attvalue for="13" value="1.91969827320609"/>
+					<attvalue for="12" value="0"/>
+					<attvalue for="15" value="1.98800688534074"/>
+					<attvalue for="14" value="1.98800688534074"/>
+					<attvalue for="17" value="0.00044404973357016"/>
+					<attvalue for="16" value="0.00278551532033426"/>
+					<attvalue for="19" value="0.00581395348837209"/>
+					<attvalue for="18" value="0.00390625"/>
+					<attvalue for="20" value="0.00581395348837209"/>
+					<attvalue for="1" value="1.09048141155215"/>
+					<attvalue for="3" value="1.96034797641808"/>
+					<attvalue for="2" value="0"/>
+					<attvalue for="5" value="1.52889906827962"/>
+					<attvalue for="4" value="1.52889906827962"/>
+					<attvalue for="7" value="0.000391389432485323"/>
+					<attvalue for="6" value="0.00168067226890756"/>
+					<attvalue for="9" value="0.008"/>
+					<attvalue for="8" value="0.00413223140495868"/>
+				</attvalues>
+			</node>
+			<node id="M_m0975" label="2,5-diaminopyrimidine nucleoside triphosphate">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="1.63030186105012"/>
+					<attvalue for="10" value="0.008"/>
+					<attvalue for="13" value="1.91969827320609"/>
+					<attvalue for="12" value="0"/>
+					<attvalue for="15" value="1.98800688534074"/>
+					<attvalue for="14" value="1.98800688534074"/>
+					<attvalue for="17" value="0.00044404973357016"/>
+					<attvalue for="16" value="0.00278551532033426"/>
+					<attvalue for="19" value="0.00581395348837209"/>
+					<attvalue for="18" value="0.00390625"/>
+					<attvalue for="20" value="0.00581395348837209"/>
+					<attvalue for="1" value="1.09048141155215"/>
+					<attvalue for="3" value="1.96034797641808"/>
+					<attvalue for="2" value="0"/>
+					<attvalue for="5" value="1.52889906827962"/>
+					<attvalue for="4" value="1.52889906827962"/>
+					<attvalue for="7" value="0.000391389432485323"/>
+					<attvalue for="6" value="0.00168067226890756"/>
+					<attvalue for="9" value="0.008"/>
+					<attvalue for="8" value="0.00413223140495868"/>
+				</attvalues>
+			</node>
+			<node id="M_m1553" label="4alpha-hydroxytetrahydrobiopterin">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="0.628673486138254"/>
+					<attvalue for="10" value="0.00110253583241455"/>
+					<attvalue for="13" value="0.662520771605968"/>
+					<attvalue for="12" value="0"/>
+					<attvalue for="15" value="0.640676870023793"/>
+					<attvalue for="14" value="0.640676870023793"/>
+					<attvalue for="17" value="0.00044404973357016"/>
+					<attvalue for="16" value="0.000709219858156028"/>
+					<attvalue for="19" value="0.00102145045965271"/>
+					<attvalue for="18" value="0.00171821305841924"/>
+					<attvalue for="20" value="0.00102145045965271"/>
+					<attvalue for="1" value="0.653862269839556"/>
+					<attvalue for="3" value="0.548121497666496"/>
+					<attvalue for="2" value="0"/>
+					<attvalue for="5" value="0.50719771963523"/>
+					<attvalue for="4" value="0.50719771963523"/>
+					<attvalue for="7" value="0.000391389432485323"/>
+					<attvalue for="6" value="0.000657894736842105"/>
+					<attvalue for="9" value="0.00110253583241455"/>
+					<attvalue for="8" value="0.00151515151515152"/>
+				</attvalues>
+			</node>
+			<node id="M_m1668" label="5(S),6(S)-epoxy-15(R)-HEPE">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="0.881999966578719"/>
+					<attvalue for="10" value="0.000305343511450382"/>
+					<attvalue for="13" value="0"/>
+					<attvalue for="12" value="0.646333767017098"/>
+					<attvalue for="15" value=""/>
+					<attvalue for="14" value=""/>
+					<attvalue for="17" value="0.00274725274725275"/>
+					<attvalue for="16" value="0.00110864745011086"/>
+					<attvalue for="19" value="0.000310462589257994"/>
+					<attvalue for="18" value="0.000475511174512601"/>
+					<attvalue for="20" value="0.000310462589257994"/>
+					<attvalue for="1" value="0.713723213533157"/>
+					<attvalue for="3" value="0"/>
+					<attvalue for="2" value="0.585611673068925"/>
+					<attvalue for="5" value=""/>
+					<attvalue for="4" value=""/>
+					<attvalue for="7" value="0.00233644859813084"/>
+					<attvalue for="6" value="0.0008058017727639"/>
+					<attvalue for="9" value="0.000305343511450382"/>
+					<attvalue for="8" value="0.000542005420054201"/>
+				</attvalues>
+			</node>
+			<node id="M_m1677" label="5(S)-HpEPE">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="0.881999966578719"/>
+					<attvalue for="10" value="0.000305343511450382"/>
+					<attvalue for="13" value="0"/>
+					<attvalue for="12" value="0.646333767017098"/>
+					<attvalue for="15" value=""/>
+					<attvalue for="14" value=""/>
+					<attvalue for="17" value="0.00274725274725275"/>
+					<attvalue for="16" value="0.00110864745011086"/>
+					<attvalue for="19" value="0.000310462589257994"/>
+					<attvalue for="18" value="0.000475511174512601"/>
+					<attvalue for="20" value="0.000310462589257994"/>
+					<attvalue for="1" value="0.713723213533157"/>
+					<attvalue for="3" value="0"/>
+					<attvalue for="2" value="0.585611673068925"/>
+					<attvalue for="5" value=""/>
+					<attvalue for="4" value=""/>
+					<attvalue for="7" value="0.00233644859813084"/>
+					<attvalue for="6" value="0.0008058017727639"/>
+					<attvalue for="9" value="0.000305343511450382"/>
+					<attvalue for="8" value="0.000542005420054201"/>
+				</attvalues>
+			</node>
+			<node id="M_m1700" label="5,6-epoxytetraene">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="0.628673486138254"/>
+					<attvalue for="10" value="0.000352360817477097"/>
+					<attvalue for="13" value="0"/>
+					<attvalue for="12" value="0.0124543891881015"/>
+					<attvalue for="15" value="0.617802789622546"/>
+					<attvalue for="14" value="0.617802789622546"/>
+					<attvalue for="17" value="0.000476190476190476"/>
+					<attvalue for="16" value="0.000763941940412529"/>
+					<attvalue for="19" value="0.00099601593625498"/>
+					<attvalue for="18" value="0.000560538116591928"/>
+					<attvalue for="20" value="0.00099601593625498"/>
+					<attvalue for="1" value="0.148319795399522"/>
+					<attvalue for="3" value="0"/>
+					<attvalue for="2" value="0.296949485602073"/>
+					<attvalue for="5" value="0.0419332838158374"/>
+					<attvalue for="4" value="0.0419332838158374"/>
+					<attvalue for="7" value="0.000638569604086846"/>
+					<attvalue for="6" value="0.000302388872089507"/>
+					<attvalue for="9" value="0.000352360817477097"/>
+					<attvalue for="8" value="0.000542005420054201"/>
+				</attvalues>
+			</node>
+			<node id="M_m1817" label="5-pp-inspP5">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="0.627677270501444"/>
+					<attvalue for="10" value="0.000777604976671851"/>
+					<attvalue for="13" value="0.783570169123749"/>
+					<attvalue for="12" value="0"/>
+					<attvalue for="15" value="0.623496039747072"/>
+					<attvalue for="14" value="0.623496039747072"/>
+					<attvalue for="17" value="0.00044404973357016"/>
+					<attvalue for="16" value="0.000719424460431655"/>
+					<attvalue for="19" value="0.00102669404517454"/>
+					<attvalue for="18" value="0.00222222222222222"/>
+					<attvalue for="20" value="0.00102669404517454"/>
+					<attvalue for="1" value="0.48530617896143"/>
+					<attvalue for="3" value="0.497136073861668"/>
+					<attvalue for="2" value="0"/>
+					<attvalue for="5" value="0.358099736483789"/>
+					<attvalue for="4" value="0.358099736483789"/>
+					<attvalue for="7" value="0.000391389432485323"/>
+					<attvalue for="6" value="0.0005005005005005"/>
+					<attvalue for="9" value="0.000777604976671851"/>
+					<attvalue for="8" value="0.00167785234899329"/>
+				</attvalues>
+			</node>
+			<node id="M_m1854" label="6-[(1S,2R)-1,2-dihydroxy-3-triphosphooxypropyl]-7,8-dihydropterin">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="0.925549281045409"/>
+					<attvalue for="10" value="0.00240384615384615"/>
+					<attvalue for="13" value="0.700209510746266"/>
+					<attvalue for="12" value="0"/>
+					<attvalue for="15" value="1.2157965182435"/>
+					<attvalue for="14" value="1.2157965182435"/>
+					<attvalue for="17" value="0.00044404973357016"/>
+					<attvalue for="16" value="0.0010482180293501"/>
+					<attvalue for="19" value="0.0018450184501845"/>
+					<attvalue for="18" value="0.00117647058823529"/>
+					<attvalue for="20" value="0.0018450184501845"/>
+					<attvalue for="1" value="0.459770662281717"/>
+					<attvalue for="3" value="0.492589440938236"/>
+					<attvalue for="2" value="0"/>
+					<attvalue for="5" value="1.03569321769606"/>
+					<attvalue for="4" value="1.03569321769606"/>
+					<attvalue for="7" value="0.000391389432485323"/>
+					<attvalue for="6" value="0.000471253534401508"/>
+					<attvalue for="9" value="0.00240384615384615"/>
+					<attvalue for="8" value="0.00102669404517454"/>
+				</attvalues>
+			</node>
+			<node id="M_m1877" label="6-pyruvoyltetrahydropterin">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="0.263093799747267"/>
+					<attvalue for="10" value="0.000797448165869219"/>
+					<attvalue for="13" value="0.342246393046551"/>
+					<attvalue for="12" value="0"/>
+					<attvalue for="15" value="0.235651977825131"/>
+					<attvalue for="14" value="0.235651977825131"/>
+					<attvalue for="17" value="0.00044404973357016"/>
+					<attvalue for="16" value="0.0004149377593361"/>
+					<attvalue for="19" value="0.000587544065804935"/>
+					<attvalue for="18" value="0.00099601593625498"/>
+					<attvalue for="20" value="0.000587544065804935"/>
+					<attvalue for="1" value="0.335837705238009"/>
+					<attvalue for="3" value="0.0922823761314016"/>
+					<attvalue for="2" value="0"/>
+					<attvalue for="5" value="0.358099736483789"/>
+					<attvalue for="4" value="0.358099736483789"/>
+					<attvalue for="7" value="0.000391389432485323"/>
+					<attvalue for="6" value="0.000387296669248644"/>
+					<attvalue for="9" value="0.000797448165869219"/>
+					<attvalue for="8" value="0.000741839762611276"/>
+				</attvalues>
+			</node>
+			<node id="M_m2029" label="acetyl-CoA">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="0.409258450021787"/>
+					<attvalue for="10" value="0.000731528895391368"/>
+					<attvalue for="13" value="0"/>
+					<attvalue for="12" value="0.391121111826984"/>
+					<attvalue for="15" value="0.119317858835628"/>
+					<attvalue for="14" value="0.119317858835628"/>
+					<attvalue for="17" value="0.00151515151515152"/>
+					<attvalue for="16" value="0.000504795557799091"/>
+					<attvalue for="19" value="0.000473709142586452"/>
+					<attvalue for="18" value="0.000475511174512601"/>
+					<attvalue for="20" value="0.000473709142586452"/>
+					<attvalue for="1" value="0.612841621727287"/>
+					<attvalue for="3" value="0"/>
+					<attvalue for="2" value="0.406813654895434"/>
+					<attvalue for="5" value="0.358099736483789"/>
+					<attvalue for="4" value="0.358099736483789"/>
+					<attvalue for="7" value="0.00103734439834025"/>
+					<attvalue for="6" value="0.000555247084952804"/>
+					<attvalue for="9" value="0.000731528895391368"/>
+					<attvalue for="8" value="0.000542005420054201"/>
+				</attvalues>
+			</node>
+			<node id="M_m2040" label="activation-ppara">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="10"/>
+					<attvalue for="10" value="1"/>
+					<attvalue for="13" value="1.39484585160311"/>
+					<attvalue for="12" value="0"/>
+					<attvalue for="15" value="2.80601323691431"/>
+					<attvalue for="14" value="2.80601323691431"/>
+					<attvalue for="17" value="0.00044404973357016"/>
+					<attvalue for="16" value="1"/>
+					<attvalue for="19" value="0.0131578947368421"/>
+					<attvalue for="18" value="0.00311526479750779"/>
+					<attvalue for="20" value="0.0131578947368421"/>
+					<attvalue for="1" value="10"/>
+					<attvalue for="3" value="1.98598377074164"/>
+					<attvalue for="2" value="0"/>
+					<attvalue for="5" value="10"/>
+					<attvalue for="4" value="10"/>
+					<attvalue for="7" value="0.000391389432485323"/>
+					<attvalue for="6" value="1"/>
+					<attvalue for="9" value="1"/>
+					<attvalue for="8" value="0.00675675675675676"/>
+				</attvalues>
+			</node>
+			<node id="M_m2074" label="ADP">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="1.21094131885307"/>
+					<attvalue for="10" value="0.000587199060481503"/>
+					<attvalue for="13" value="0"/>
+					<attvalue for="12" value="1.10870233460895"/>
+					<attvalue for="15" value="0.165331380492764"/>
+					<attvalue for="14" value="0.165331380492764"/>
+					<attvalue for="17" value="0.00448430493273543"/>
+					<attvalue for="16" value="0.00193423597678917"/>
+					<attvalue for="19" value="0.000520020800832033"/>
+					<attvalue for="18" value="0.000475511174512601"/>
+					<attvalue for="20" value="0.000520020800832033"/>
+					<attvalue for="1" value="0.524663012909379"/>
+					<attvalue for="3" value="0"/>
+					<attvalue for="2" value="0.450310261287683"/>
+					<attvalue for="5" value="0.277892814318997"/>
+					<attvalue for="4" value="0.277892814318997"/>
+					<attvalue for="7" value="0.000931098696461825"/>
+					<attvalue for="6" value="0.000521920668058455"/>
+					<attvalue for="9" value="0.000587199060481503"/>
+					<attvalue for="8" value="0.000542005420054201"/>
+				</attvalues>
+			</node>
+			<node id="M_m2165" label="AMP">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="0.162980051459092"/>
+					<attvalue for="10" value="0.000356379187455453"/>
+					<attvalue for="13" value="0"/>
+					<attvalue for="12" value="0.177936582515102"/>
+					<attvalue for="15" value=""/>
+					<attvalue for="14" value=""/>
+					<attvalue for="17" value="0.000766871165644172"/>
+					<attvalue for="16" value="0.000361402240693892"/>
+					<attvalue for="19" value="0.000310462589257994"/>
+					<attvalue for="18" value="0.000475511174512601"/>
+					<attvalue for="20" value="0.000310462589257994"/>
+					<attvalue for="1" value="0.0868964288649478"/>
+					<attvalue for="3" value="0"/>
+					<attvalue for="2" value="0.00289770388437142"/>
+					<attvalue for="5" value="0.0510689288052449"/>
+					<attvalue for="4" value="0.0510689288052449"/>
+					<attvalue for="7" value="0.000408163265306122"/>
+					<attvalue for="6" value="0.000278706800445931"/>
+					<attvalue for="9" value="0.000356379187455453"/>
+					<attvalue for="8" value="0.000542005420054201"/>
+				</attvalues>
+			</node>
+			<node id="M_m2222" label="arachidonate">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="0.32202824718926"/>
+					<attvalue for="10" value="0.00051150895140665"/>
+					<attvalue for="13" value="0"/>
+					<attvalue for="12" value="0.305087832671431"/>
+					<attvalue for="15" value=""/>
+					<attvalue for="14" value=""/>
+					<attvalue for="17" value="0.00093984962406015"/>
+					<attvalue for="16" value="0.000462107208872458"/>
+					<attvalue for="19" value="0.000310462589257994"/>
+					<attvalue for="18" value="0.000475511174512601"/>
+					<attvalue for="20" value="0.000310462589257994"/>
+					<attvalue for="1" value="0.230652218771106"/>
+					<attvalue for="3" value="0.117333187029301"/>
+					<attvalue for="2" value="0"/>
+					<attvalue for="5" value="0.193358833094466"/>
+					<attvalue for="4" value="0.193358833094466"/>
+					<attvalue for="7" value="0.000391389432485323"/>
+					<attvalue for="6" value="0.000333555703802535"/>
+					<attvalue for="9" value="0.00051150895140665"/>
+					<attvalue for="8" value="0.000819672131147541"/>
+				</attvalues>
+			</node>
+			<node id="M_m2253" label="ATP">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="0.978686634515305"/>
+					<attvalue for="10" value="0.000379650721336371"/>
+					<attvalue for="13" value="0"/>
+					<attvalue for="12" value="0.784864954519739"/>
+					<attvalue for="15" value="0.162266400371745"/>
+					<attvalue for="14" value="0.162266400371745"/>
+					<attvalue for="17" value="0.00284900284900285"/>
+					<attvalue for="16" value="0.00127551020408163"/>
+					<attvalue for="19" value="0.000492125984251968"/>
+					<attvalue for="18" value="0.000475511174512601"/>
+					<attvalue for="20" value="0.000492125984251968"/>
+					<attvalue for="1" value="0.341063730280863"/>
+					<attvalue for="3" value="0"/>
+					<attvalue for="2" value="0.280710155306672"/>
+					<attvalue for="5" value="0.122450134739271"/>
+					<attvalue for="4" value="0.122450134739271"/>
+					<attvalue for="7" value="0.000661375661375661"/>
+					<attvalue for="6" value="0.000372856077554064"/>
+					<attvalue for="9" value="0.000379650721336371"/>
+					<attvalue for="8" value="0.000542005420054201"/>
+				</attvalues>
+			</node>
+			<node id="M_m2359" label="CDP">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="1.39046961925099"/>
+					<attvalue for="10" value="0.000305343511450382"/>
+					<attvalue for="13" value="0"/>
+					<attvalue for="12" value="1.54384661062531"/>
+					<attvalue for="15" value=""/>
+					<attvalue for="14" value=""/>
+					<attvalue for="17" value="0.02"/>
+					<attvalue for="16" value="0.00244498777506112"/>
+					<attvalue for="19" value="0.000310462589257994"/>
+					<attvalue for="18" value="0.000475511174512601"/>
+					<attvalue for="20" value="0.000310462589257994"/>
+					<attvalue for="1" value="0.48938797421083"/>
+					<attvalue for="3" value="0"/>
+					<attvalue for="2" value="0.573082286119184"/>
+					<attvalue for="5" value=""/>
+					<attvalue for="4" value=""/>
+					<attvalue for="7" value="0.00276243093922652"/>
+					<attvalue for="6" value="0.000496277915632754"/>
+					<attvalue for="9" value="0.000305343511450382"/>
+					<attvalue for="8" value="0.000542005420054201"/>
+				</attvalues>
+			</node>
+			<node id="M_m2381" label="cGMP">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="0.12467823806091"/>
+					<attvalue for="10" value="0.000305343511450382"/>
+					<attvalue for="13" value="0.0969154417230098"/>
+					<attvalue for="12" value="0"/>
+					<attvalue for="15" value="0.0916115017311271"/>
+					<attvalue for="14" value="0.0916115017311271"/>
+					<attvalue for="17" value="0.00044404973357016"/>
+					<attvalue for="16" value="0.00034106412005457"/>
+					<attvalue for="19" value="0.000448430493273543"/>
+					<attvalue for="18" value="0.000648929266709929"/>
+					<attvalue for="20" value="0.000448430493273543"/>
+					<attvalue for="1" value="0.0583941657823749"/>
+					<attvalue for="3" value="0"/>
+					<attvalue for="2" value="0.100551596791411"/>
+					<attvalue for="5" value=""/>
+					<attvalue for="4" value=""/>
+					<attvalue for="7" value="0.000526592943654555"/>
+					<attvalue for="6" value="0.000265604249667995"/>
+					<attvalue for="9" value="0.000305343511450382"/>
+					<attvalue for="8" value="0.000542005420054201"/>
+				</attvalues>
+			</node>
+			<node id="M_m2673" label="CMP">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="1.10215856307161"/>
+					<attvalue for="10" value="0.000305343511450382"/>
+					<attvalue for="13" value="0"/>
+					<attvalue for="12" value="0.924416544806187"/>
+					<attvalue for="15" value=""/>
+					<attvalue for="14" value=""/>
+					<attvalue for="17" value="0.00442477876106195"/>
+					<attvalue for="16" value="0.00173010380622837"/>
+					<attvalue for="19" value="0.000310462589257994"/>
+					<attvalue for="18" value="0.000475511174512601"/>
+					<attvalue for="20" value="0.000310462589257994"/>
+					<attvalue for="1" value="0.747438213793671"/>
+					<attvalue for="3" value="0"/>
+					<attvalue for="2" value="0.613358373864372"/>
+					<attvalue for="5" value=""/>
+					<attvalue for="4" value=""/>
+					<attvalue for="7" value="0.00248138957816377"/>
+					<attvalue for="6" value="0.000865051903114187"/>
+					<attvalue for="9" value="0.000305343511450382"/>
+					<attvalue for="8" value="0.000542005420054201"/>
+				</attvalues>
+			</node>
+			<node id="M_m2679" label="CMP-N-acetylneuraminate">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="0.134937501573639"/>
+					<attvalue for="10" value="0.000410004100041"/>
+					<attvalue for="13" value="0.105335090821092"/>
+					<attvalue for="12" value="0"/>
+					<attvalue for="15" value="0.0950627669312198"/>
+					<attvalue for="14" value="0.0950627669312198"/>
+					<attvalue for="17" value="0.00044404973357016"/>
+					<attvalue for="16" value="0.000346260387811634"/>
+					<attvalue for="19" value="0.00045024763619991"/>
+					<attvalue for="18" value="0.000651465798045603"/>
+					<attvalue for="20" value="0.00045024763619991"/>
+					<attvalue for="1" value="0.197588908072786"/>
+					<attvalue for="3" value="0.0937835162941686"/>
+					<attvalue for="2" value="0"/>
+					<attvalue for="5" value="0.176121660733486"/>
+					<attvalue for="4" value="0.176121660733486"/>
+					<attvalue for="7" value="0.000391389432485323"/>
+					<attvalue for="6" value="0.000321750321750322"/>
+					<attvalue for="9" value="0.000410004100041"/>
+					<attvalue for="8" value="0.000772200772200772"/>
+				</attvalues>
+			</node>
+			<node id="M_m2694" label="CoA">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="0.409258450021787"/>
+					<attvalue for="10" value="0.000731528895391368"/>
+					<attvalue for="13" value="0"/>
+					<attvalue for="12" value="0.391121111826984"/>
+					<attvalue for="15" value="0.119317858835628"/>
+					<attvalue for="14" value="0.119317858835628"/>
+					<attvalue for="17" value="0.00151515151515152"/>
+					<attvalue for="16" value="0.000504795557799091"/>
+					<attvalue for="19" value="0.000473709142586452"/>
+					<attvalue for="18" value="0.000475511174512601"/>
+					<attvalue for="20" value="0.000473709142586452"/>
+					<attvalue for="1" value="0.612841621727287"/>
+					<attvalue for="3" value="0"/>
+					<attvalue for="2" value="0.406813654895434"/>
+					<attvalue for="5" value="0.358099736483789"/>
+					<attvalue for="4" value="0.358099736483789"/>
+					<attvalue for="7" value="0.00103734439834025"/>
+					<attvalue for="6" value="0.000555247084952804"/>
+					<attvalue for="9" value="0.000731528895391368"/>
+					<attvalue for="8" value="0.000542005420054201"/>
+				</attvalues>
+			</node>
+			<node id="M_m2740" label="CTP">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="1.12316465301473"/>
+					<attvalue for="10" value="0.000410004100041"/>
+					<attvalue for="13" value="0"/>
+					<attvalue for="12" value="1.17295398299527"/>
+					<attvalue for="15" value="0.0950627669312198"/>
+					<attvalue for="14" value="0.0950627669312198"/>
+					<attvalue for="17" value="0.00480769230769231"/>
+					<attvalue for="16" value="0.00170357751277683"/>
+					<attvalue for="19" value="0.00045024763619991"/>
+					<attvalue for="18" value="0.000475511174512601"/>
+					<attvalue for="20" value="0.00045024763619991"/>
+					<attvalue for="1" value="0.445159669879173"/>
+					<attvalue for="3" value="0"/>
+					<attvalue for="2" value="0.506360740321338"/>
+					<attvalue for="5" value="0.176121660733486"/>
+					<attvalue for="4" value="0.176121660733486"/>
+					<attvalue for="7" value="0.00116550116550117"/>
+					<attvalue for="6" value="0.000424448217317487"/>
+					<attvalue for="9" value="0.000410004100041"/>
+					<attvalue for="8" value="0.000542005420054201"/>
+				</attvalues>
+			</node>
+			<node id="M_m2770" label="dADP">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="1.39840712636085"/>
+					<attvalue for="10" value="0.000328407224958949"/>
+					<attvalue for="13" value="0"/>
+					<attvalue for="12" value="1.91083700063507"/>
+					<attvalue for="15" value="0.0204197599935346"/>
+					<attvalue for="14" value="0.0204197599935346"/>
+					<attvalue for="17" value="0.0263157894736842"/>
+					<attvalue for="16" value="0.00267379679144385"/>
+					<attvalue for="19" value="0.00036036036036036"/>
+					<attvalue for="18" value="0.000475511174512601"/>
+					<attvalue for="20" value="0.00036036036036036"/>
+					<attvalue for="1" value="0.188398186655437"/>
+					<attvalue for="3" value="0"/>
+					<attvalue for="2" value="0.730183622654176"/>
+					<attvalue for="5" value="0.0226239693450731"/>
+					<attvalue for="4" value="0.0226239693450731"/>
+					<attvalue for="7" value="0.0037593984962406"/>
+					<attvalue for="6" value="0.000330250990752972"/>
+					<attvalue for="9" value="0.000328407224958949"/>
+					<attvalue for="8" value="0.000542005420054201"/>
+				</attvalues>
+			</node>
+			<node id="M_m2785" label="dATP">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="1.39840712636085"/>
+					<attvalue for="10" value="0.000328407224958949"/>
+					<attvalue for="13" value="0"/>
+					<attvalue for="12" value="1.91083700063507"/>
+					<attvalue for="15" value="0.0204197599935346"/>
+					<attvalue for="14" value="0.0204197599935346"/>
+					<attvalue for="17" value="0.0263157894736842"/>
+					<attvalue for="16" value="0.00267379679144385"/>
+					<attvalue for="19" value="0.00036036036036036"/>
+					<attvalue for="18" value="0.000475511174512601"/>
+					<attvalue for="20" value="0.00036036036036036"/>
+					<attvalue for="1" value="0.188398186655437"/>
+					<attvalue for="3" value="0"/>
+					<attvalue for="2" value="0.730183622654176"/>
+					<attvalue for="5" value="0.0226239693450731"/>
+					<attvalue for="4" value="0.0226239693450731"/>
+					<attvalue for="7" value="0.0037593984962406"/>
+					<attvalue for="6" value="0.000330250990752972"/>
+					<attvalue for="9" value="0.000328407224958949"/>
+					<attvalue for="8" value="0.000542005420054201"/>
+				</attvalues>
+			</node>
+			<node id="M_m2788" label="dCDP">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="1.39046961925099"/>
+					<attvalue for="10" value="0.000305343511450382"/>
+					<attvalue for="13" value="0"/>
+					<attvalue for="12" value="1.54384661062531"/>
+					<attvalue for="15" value=""/>
+					<attvalue for="14" value=""/>
+					<attvalue for="17" value="0.02"/>
+					<attvalue for="16" value="0.00244498777506112"/>
+					<attvalue for="19" value="0.000310462589257994"/>
+					<attvalue for="18" value="0.000475511174512601"/>
+					<attvalue for="20" value="0.000310462589257994"/>
+					<attvalue for="1" value="0.48938797421083"/>
+					<attvalue for="3" value="0"/>
+					<attvalue for="2" value="0.573082286119184"/>
+					<attvalue for="5" value=""/>
+					<attvalue for="4" value=""/>
+					<attvalue for="7" value="0.00276243093922652"/>
+					<attvalue for="6" value="0.000496277915632754"/>
+					<attvalue for="9" value="0.000305343511450382"/>
+					<attvalue for="8" value="0.000542005420054201"/>
+				</attvalues>
+			</node>
+			<node id="M_m2792" label="dCMP">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="1.10215856307161"/>
+					<attvalue for="10" value="0.000305343511450382"/>
+					<attvalue for="13" value="0"/>
+					<attvalue for="12" value="0.924416544806187"/>
+					<attvalue for="15" value=""/>
+					<attvalue for="14" value=""/>
+					<attvalue for="17" value="0.00442477876106195"/>
+					<attvalue for="16" value="0.00173010380622837"/>
+					<attvalue for="19" value="0.000310462589257994"/>
+					<attvalue for="18" value="0.000475511174512601"/>
+					<attvalue for="20" value="0.000310462589257994"/>
+					<attvalue for="1" value="0.747438213793671"/>
+					<attvalue for="3" value="0"/>
+					<attvalue for="2" value="0.613358373864372"/>
+					<attvalue for="5" value=""/>
+					<attvalue for="4" value=""/>
+					<attvalue for="7" value="0.00248138957816377"/>
+					<attvalue for="6" value="0.000865051903114187"/>
+					<attvalue for="9" value="0.000305343511450382"/>
+					<attvalue for="8" value="0.000542005420054201"/>
+				</attvalues>
+			</node>
+			<node id="M_m2795" label="dCTP">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="1.39046961925099"/>
+					<attvalue for="10" value="0.000305343511450382"/>
+					<attvalue for="13" value="0"/>
+					<attvalue for="12" value="1.54384661062531"/>
+					<attvalue for="15" value=""/>
+					<attvalue for="14" value=""/>
+					<attvalue for="17" value="0.02"/>
+					<attvalue for="16" value="0.00244498777506112"/>
+					<attvalue for="19" value="0.000310462589257994"/>
+					<attvalue for="18" value="0.000475511174512601"/>
+					<attvalue for="20" value="0.000310462589257994"/>
+					<attvalue for="1" value="0.48938797421083"/>
+					<attvalue for="3" value="0"/>
+					<attvalue for="2" value="0.573082286119184"/>
+					<attvalue for="5" value=""/>
+					<attvalue for="4" value=""/>
+					<attvalue for="7" value="0.00276243093922652"/>
+					<attvalue for="6" value="0.000496277915632754"/>
+					<attvalue for="9" value="0.000305343511450382"/>
+					<attvalue for="8" value="0.000542005420054201"/>
+				</attvalues>
+			</node>
+			<node id="M_m2797" label="deamido-NAD">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="0.162980051459092"/>
+					<attvalue for="10" value="0.000350140056022409"/>
+					<attvalue for="13" value="0"/>
+					<attvalue for="12" value="0.0103544379567615"/>
+					<attvalue for="15" value="0.146727775979317"/>
+					<attvalue for="14" value="0.146727775979317"/>
+					<attvalue for="17" value="0.000520833333333333"/>
+					<attvalue for="16" value="0.000354735721887194"/>
+					<attvalue for="19" value="0.000488997555012225"/>
+					<attvalue for="18" value="0.000475511174512601"/>
+					<attvalue for="20" value="0.000488997555012225"/>
+					<attvalue for="1" value="0.0898667215040078"/>
+					<attvalue for="3" value="0.0364246512723184"/>
+					<attvalue for="2" value="0"/>
+					<attvalue for="5" value="0.0540688078089159"/>
+					<attvalue for="4" value="0.0540688078089159"/>
+					<attvalue for="7" value="0.000391389432485323"/>
+					<attvalue for="6" value="0.000271812992661049"/>
+					<attvalue for="9" value="0.000350140056022409"/>
+					<attvalue for="8" value="0.000681198910081744"/>
+				</attvalues>
+			</node>
+			<node id="M_m2836" label="deoxycytidine">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="0.146095030551792"/>
+					<attvalue for="10" value="0.000777604976671851"/>
+					<attvalue for="13" value="0.0674044875814795"/>
+					<attvalue for="12" value="0"/>
+					<attvalue for="15" value="0.130216958989548"/>
+					<attvalue for="14" value="0.130216958989548"/>
+					<attvalue for="17" value="0.00044404973357016"/>
+					<attvalue for="16" value="0.000346380325597506"/>
+					<attvalue for="19" value="0.000481695568400771"/>
+					<attvalue for="18" value="0.000577700751010976"/>
+					<attvalue for="20" value="0.000481695568400771"/>
+					<attvalue for="1" value="0.454173525588396"/>
+					<attvalue for="3" value="0.169456238531271"/>
+					<attvalue for="2" value="0"/>
+					<attvalue for="5" value="0.358099736483789"/>
+					<attvalue for="4" value="0.358099736483789"/>
+					<attvalue for="7" value="0.000391389432485323"/>
+					<attvalue for="6" value="0.000441501103752759"/>
+					<attvalue for="9" value="0.000777604976671851"/>
+					<attvalue for="8" value="0.000884173297966401"/>
+				</attvalues>
+			</node>
+			<node id="M_m2849" label="deoxyuridine">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="0.157540542933397"/>
+					<attvalue for="10" value="0.00051150895140665"/>
+					<attvalue for="13" value="0"/>
+					<attvalue for="12" value="0.169411331314856"/>
+					<attvalue for="15" value=""/>
+					<attvalue for="14" value=""/>
+					<attvalue for="17" value="0.000729394602479942"/>
+					<attvalue for="16" value="0.000357142857142857"/>
+					<attvalue for="19" value="0.000310462589257994"/>
+					<attvalue for="18" value="0.000475511174512601"/>
+					<attvalue for="20" value="0.000310462589257994"/>
+					<attvalue for="1" value="0.247030134970916"/>
+					<attvalue for="3" value="0.123857243402038"/>
+					<attvalue for="2" value="0"/>
+					<attvalue for="5" value="0.193358833094466"/>
+					<attvalue for="4" value="0.193358833094466"/>
+					<attvalue for="7" value="0.000391389432485323"/>
+					<attvalue for="6" value="0.000346620450606586"/>
+					<attvalue for="9" value="0.00051150895140665"/>
+					<attvalue for="8" value="0.000829875518672199"/>
+				</attvalues>
+			</node>
+			<node id="M_m2864" label="dGDP">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="1.39046961925099"/>
+					<attvalue for="10" value="0.000305343511450382"/>
+					<attvalue for="13" value="0"/>
+					<attvalue for="12" value="1.54384661062531"/>
+					<attvalue for="15" value=""/>
+					<attvalue for="14" value=""/>
+					<attvalue for="17" value="0.02"/>
+					<attvalue for="16" value="0.00244498777506112"/>
+					<attvalue for="19" value="0.000310462589257994"/>
+					<attvalue for="18" value="0.000475511174512601"/>
+					<attvalue for="20" value="0.000310462589257994"/>
+					<attvalue for="1" value="0.48938797421083"/>
+					<attvalue for="3" value="0"/>
+					<attvalue for="2" value="0.573082286119184"/>
+					<attvalue for="5" value=""/>
+					<attvalue for="4" value=""/>
+					<attvalue for="7" value="0.00276243093922652"/>
+					<attvalue for="6" value="0.000496277915632754"/>
+					<attvalue for="9" value="0.000305343511450382"/>
+					<attvalue for="8" value="0.000542005420054201"/>
+				</attvalues>
+			</node>
+			<node id="M_m2880" label="dGTP">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="1.39046961925099"/>
+					<attvalue for="10" value="0.000305343511450382"/>
+					<attvalue for="13" value="0"/>
+					<attvalue for="12" value="1.54384661062531"/>
+					<attvalue for="15" value=""/>
+					<attvalue for="14" value=""/>
+					<attvalue for="17" value="0.02"/>
+					<attvalue for="16" value="0.00244498777506112"/>
+					<attvalue for="19" value="0.000310462589257994"/>
+					<attvalue for="18" value="0.000475511174512601"/>
+					<attvalue for="20" value="0.000310462589257994"/>
+					<attvalue for="1" value="0.48938797421083"/>
+					<attvalue for="3" value="0"/>
+					<attvalue for="2" value="0.573082286119184"/>
+					<attvalue for="5" value=""/>
+					<attvalue for="4" value=""/>
+					<attvalue for="7" value="0.00276243093922652"/>
+					<attvalue for="6" value="0.000496277915632754"/>
+					<attvalue for="9" value="0.000305343511450382"/>
+					<attvalue for="8" value="0.000542005420054201"/>
+				</attvalues>
+			</node>
+			<node id="M_m2893" label="dIDP">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="0.721772442405258"/>
+					<attvalue for="10" value="0.000305343511450382"/>
+					<attvalue for="13" value="0"/>
+					<attvalue for="12" value="0.626701720385129"/>
+					<attvalue for="15" value=""/>
+					<attvalue for="14" value=""/>
+					<attvalue for="17" value="0.00355871886120996"/>
+					<attvalue for="16" value="0.000978473581213307"/>
+					<attvalue for="19" value="0.000310462589257994"/>
+					<attvalue for="18" value="0.000475511174512601"/>
+					<attvalue for="20" value="0.000310462589257994"/>
+					<attvalue for="1" value="0.201183677614051"/>
+					<attvalue for="3" value="0"/>
+					<attvalue for="2" value="0.307426252397087"/>
+					<attvalue for="5" value=""/>
+					<attvalue for="4" value=""/>
+					<attvalue for="7" value="0.000775795190069822"/>
+					<attvalue for="6" value="0.000316656111462951"/>
+					<attvalue for="9" value="0.000305343511450382"/>
+					<attvalue for="8" value="0.000542005420054201"/>
+				</attvalues>
+			</node>
+			<node id="M_m2937" label="dITP">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="0.721772442405258"/>
+					<attvalue for="10" value="0.000305343511450382"/>
+					<attvalue for="13" value="0"/>
+					<attvalue for="12" value="0.626701720385129"/>
+					<attvalue for="15" value=""/>
+					<attvalue for="14" value=""/>
+					<attvalue for="17" value="0.00355871886120996"/>
+					<attvalue for="16" value="0.000978473581213307"/>
+					<attvalue for="19" value="0.000310462589257994"/>
+					<attvalue for="18" value="0.000475511174512601"/>
+					<attvalue for="20" value="0.000310462589257994"/>
+					<attvalue for="1" value="0.201183677614051"/>
+					<attvalue for="3" value="0"/>
+					<attvalue for="2" value="0.307426252397087"/>
+					<attvalue for="5" value=""/>
+					<attvalue for="4" value=""/>
+					<attvalue for="7" value="0.000775795190069822"/>
+					<attvalue for="6" value="0.000316656111462951"/>
+					<attvalue for="9" value="0.000305343511450382"/>
+					<attvalue for="8" value="0.000542005420054201"/>
+				</attvalues>
+			</node>
+			<node id="M_m3009" label="dTDP">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="0.927382523454763"/>
+					<attvalue for="10" value="0.000328407224958949"/>
+					<attvalue for="13" value="0"/>
+					<attvalue for="12" value="1.54384661062531"/>
+					<attvalue for="15" value="0.0204197599935346"/>
+					<attvalue for="14" value="0.0204197599935346"/>
+					<attvalue for="17" value="0.0072463768115942"/>
+					<attvalue for="16" value="0.00147492625368732"/>
+					<attvalue for="19" value="0.00036036036036036"/>
+					<attvalue for="18" value="0.000475511174512601"/>
+					<attvalue for="20" value="0.00036036036036036"/>
+					<attvalue for="1" value="0.0868964288649478"/>
+					<attvalue for="3" value="0"/>
+					<attvalue for="2" value="0.538816728735412"/>
+					<attvalue for="5" value="0.0226239693450731"/>
+					<attvalue for="4" value="0.0226239693450731"/>
+					<attvalue for="7" value="0.0020746887966805"/>
+					<attvalue for="6" value="0.000279563880346659"/>
+					<attvalue for="9" value="0.000328407224958949"/>
+					<attvalue for="8" value="0.000542005420054201"/>
+				</attvalues>
+			</node>
+			<node id="M_m3017" label="dTMP">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="1.30552642539897"/>
+					<attvalue for="10" value="0.000305343511450382"/>
+					<attvalue for="13" value="0"/>
+					<attvalue for="12" value="1.22467359263388"/>
+					<attvalue for="15" value=""/>
+					<attvalue for="14" value=""/>
+					<attvalue for="17" value="0.0062111801242236"/>
+					<attvalue for="16" value="0.00229357798165138"/>
+					<attvalue for="19" value="0.000310462589257994"/>
+					<attvalue for="18" value="0.000475511174512601"/>
+					<attvalue for="20" value="0.000310462589257994"/>
+					<attvalue for="1" value="0.300491804116263"/>
+					<attvalue for="3" value="0"/>
+					<attvalue for="2" value="0.348974105073162"/>
+					<attvalue for="5" value=""/>
+					<attvalue for="4" value=""/>
+					<attvalue for="7" value="0.000736377025036819"/>
+					<attvalue for="6" value="0.00037037037037037"/>
+					<attvalue for="9" value="0.000305343511450382"/>
+					<attvalue for="8" value="0.000542005420054201"/>
+				</attvalues>
+			</node>
+			<node id="M_m3020" label="dTTP">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="0.469262570875947"/>
+					<attvalue for="10" value="0.000328407224958949"/>
+					<attvalue for="13" value="0"/>
+					<attvalue for="12" value="0.646333767017098"/>
+					<attvalue for="15" value="0.0204197599935346"/>
+					<attvalue for="14" value="0.0204197599935346"/>
+					<attvalue for="17" value="0.00265957446808511"/>
+					<attvalue for="16" value="0.000662251655629139"/>
+					<attvalue for="19" value="0.00036036036036036"/>
+					<attvalue for="18" value="0.000475511174512601"/>
+					<attvalue for="20" value="0.00036036036036036"/>
+					<attvalue for="1" value="0.0697184519329646"/>
+					<attvalue for="3" value="0"/>
+					<attvalue for="2" value="0.483874656101279"/>
+					<attvalue for="5" value="0.0226239693450731"/>
+					<attvalue for="4" value="0.0226239693450731"/>
+					<attvalue for="7" value="0.00122699386503067"/>
+					<attvalue for="6" value="0.000271886895051658"/>
+					<attvalue for="9" value="0.000328407224958949"/>
+					<attvalue for="8" value="0.000542005420054201"/>
+				</attvalues>
+			</node>
+			<node id="M_m3023" label="dUDP">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="0.721772442405258"/>
+					<attvalue for="10" value="0.000305343511450382"/>
+					<attvalue for="13" value="0"/>
+					<attvalue for="12" value="0.626701720385129"/>
+					<attvalue for="15" value=""/>
+					<attvalue for="14" value=""/>
+					<attvalue for="17" value="0.00355871886120996"/>
+					<attvalue for="16" value="0.000978473581213307"/>
+					<attvalue for="19" value="0.000310462589257994"/>
+					<attvalue for="18" value="0.000475511174512601"/>
+					<attvalue for="20" value="0.000310462589257994"/>
+					<attvalue for="1" value="0.201183677614051"/>
+					<attvalue for="3" value="0"/>
+					<attvalue for="2" value="0.307426252397087"/>
+					<attvalue for="5" value=""/>
+					<attvalue for="4" value=""/>
+					<attvalue for="7" value="0.000775795190069822"/>
+					<attvalue for="6" value="0.000316656111462951"/>
+					<attvalue for="9" value="0.000305343511450382"/>
+					<attvalue for="8" value="0.000542005420054201"/>
+				</attvalues>
+			</node>
+			<node id="M_m3026" label="dUMP">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="0.443601000069577"/>
+					<attvalue for="10" value="0.000376647834274953"/>
+					<attvalue for="13" value="0"/>
+					<attvalue for="12" value="0.391121111826984"/>
+					<attvalue for="15" value=""/>
+					<attvalue for="14" value=""/>
+					<attvalue for="17" value="0.00116144018583043"/>
+					<attvalue for="16" value="0.00051975051975052"/>
+					<attvalue for="19" value="0.000310462589257994"/>
+					<attvalue for="18" value="0.000475511174512601"/>
+					<attvalue for="20" value="0.000310462589257994"/>
+					<attvalue for="1" value="0.13386040525535"/>
+					<attvalue for="3" value="0.0365332916126999"/>
+					<attvalue for="2" value="0"/>
+					<attvalue for="5" value="0.101785085062813"/>
+					<attvalue for="4" value="0.101785085062813"/>
+					<attvalue for="7" value="0.000391389432485323"/>
+					<attvalue for="6" value="0.000297000297000297"/>
+					<attvalue for="9" value="0.000376647834274953"/>
+					<attvalue for="8" value="0.000672494956287828"/>
+				</attvalues>
+			</node>
+			<node id="M_m3029" label="dUTP">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="1.6519873615778"/>
+					<attvalue for="10" value="0.000351000351000351"/>
+					<attvalue for="13" value="0"/>
+					<attvalue for="12" value="1.92833887655821"/>
+					<attvalue for="15" value=""/>
+					<attvalue for="14" value=""/>
+					<attvalue for="17" value="0.0303030303030303"/>
+					<attvalue for="16" value="0.00304878048780488"/>
+					<attvalue for="19" value="0.000310462589257994"/>
+					<attvalue for="18" value="0.000475511174512601"/>
+					<attvalue for="20" value="0.000310462589257994"/>
+					<attvalue for="1" value="0.509227104094449"/>
+					<attvalue for="3" value="0"/>
+					<attvalue for="2" value="0.678401569534656"/>
+					<attvalue for="5" value="0.0585233520695033"/>
+					<attvalue for="4" value="0.0585233520695033"/>
+					<attvalue for="7" value="0.00252525252525253"/>
+					<attvalue for="6" value="0.000518672199170124"/>
+					<attvalue for="9" value="0.000351000351000351"/>
+					<attvalue for="8" value="0.000542005420054201"/>
+				</attvalues>
+			</node>
+			<node id="M_m3086" label="EPA">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="0.538756662419227"/>
+					<attvalue for="10" value="0.000305343511450382"/>
+					<attvalue for="13" value="0"/>
+					<attvalue for="12" value="0.626701720385129"/>
+					<attvalue for="15" value=""/>
+					<attvalue for="14" value=""/>
+					<attvalue for="17" value="0.00240384615384615"/>
+					<attvalue for="16" value="0.000584453535943892"/>
+					<attvalue for="19" value="0.000310462589257994"/>
+					<attvalue for="18" value="0.000475511174512601"/>
+					<attvalue for="20" value="0.000310462589257994"/>
+					<attvalue for="1" value="0.25608278543367"/>
+					<attvalue for="3" value="0"/>
+					<attvalue for="2" value="0.538816728735412"/>
+					<attvalue for="5" value=""/>
+					<attvalue for="4" value=""/>
+					<attvalue for="7" value="0.00170357751277683"/>
+					<attvalue for="6" value="0.000348432055749129"/>
+					<attvalue for="9" value="0.000305343511450382"/>
+					<attvalue for="8" value="0.000542005420054201"/>
+				</attvalues>
+			</node>
+			<node id="M_m3163" label="fatty acid-ligands">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="1.37450234444232"/>
+					<attvalue for="10" value="0.0108695652173913"/>
+					<attvalue for="13" value="0.254987701328606"/>
+					<attvalue for="12" value="0"/>
+					<attvalue for="15" value="0.874356107642608"/>
+					<attvalue for="14" value="0.874356107642608"/>
+					<attvalue for="17" value="0.000476190476190476"/>
+					<attvalue for="16" value="0.00238663484486874"/>
+					<attvalue for="19" value="0.00130208333333333"/>
+					<attvalue for="18" value="0.000753012048192771"/>
+					<attvalue for="20" value="0.00130208333333333"/>
+					<attvalue for="1" value="1.6680263828625"/>
+					<attvalue for="3" value="1.40633741225359"/>
+					<attvalue for="2" value="0"/>
+					<attvalue for="5" value="1.86892695196565"/>
+					<attvalue for="4" value="1.86892695196565"/>
+					<attvalue for="7" value="0.000391389432485323"/>
+					<attvalue for="6" value="0.00704225352112676"/>
+					<attvalue for="9" value="0.0108695652173913"/>
+					<attvalue for="8" value="0.00304878048780488"/>
+				</attvalues>
+			</node>
+			<node id="M_m3198" label="formamidopyrimidine nucleoside triphosphate">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="0.951441675101518"/>
+					<attvalue for="10" value="0.00240384615384615"/>
+					<attvalue for="13" value="0.617046899984959"/>
+					<attvalue for="12" value="0"/>
+					<attvalue for="15" value="1.34081616051907"/>
+					<attvalue for="14" value="1.34081616051907"/>
+					<attvalue for="17" value="0.00044404973357016"/>
+					<attvalue for="16" value="0.00111482720178372"/>
+					<attvalue for="19" value="0.00269541778975741"/>
+					<attvalue for="18" value="0.000941619585687382"/>
+					<attvalue for="20" value="0.00269541778975741"/>
+					<attvalue for="1" value="0.522531448594974"/>
+					<attvalue for="3" value="0.711236723827187"/>
+					<attvalue for="2" value="0"/>
+					<attvalue for="5" value="1.03569321769606"/>
+					<attvalue for="4" value="1.03569321769606"/>
+					<attvalue for="7" value="0.000391389432485323"/>
+					<attvalue for="6" value="0.000559597090095132"/>
+					<attvalue for="9" value="0.00240384615384615"/>
+					<attvalue for="8" value="0.00151515151515152"/>
+				</attvalues>
+			</node>
+			<node id="M_m3201" label="formate">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="0.951441675101518"/>
+					<attvalue for="10" value="0.00240384615384615"/>
+					<attvalue for="13" value="0.617046899984959"/>
+					<attvalue for="12" value="0"/>
+					<attvalue for="15" value="1.34081616051907"/>
+					<attvalue for="14" value="1.34081616051907"/>
+					<attvalue for="17" value="0.00044404973357016"/>
+					<attvalue for="16" value="0.00111482720178372"/>
+					<attvalue for="19" value="0.00269541778975741"/>
+					<attvalue for="18" value="0.000941619585687382"/>
+					<attvalue for="20" value="0.00269541778975741"/>
+					<attvalue for="1" value="0.522531448594974"/>
+					<attvalue for="3" value="0.711236723827187"/>
+					<attvalue for="2" value="0"/>
+					<attvalue for="5" value="1.03569321769606"/>
+					<attvalue for="4" value="1.03569321769606"/>
+					<attvalue for="7" value="0.000391389432485323"/>
+					<attvalue for="6" value="0.000559597090095132"/>
+					<attvalue for="9" value="0.00240384615384615"/>
+					<attvalue for="8" value="0.00151515151515152"/>
+				</attvalues>
+			</node>
+			<node id="M_m3378" label="GDP">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="1.39046961925099"/>
+					<attvalue for="10" value="0.000305343511450382"/>
+					<attvalue for="13" value="0"/>
+					<attvalue for="12" value="1.54384661062531"/>
+					<attvalue for="15" value=""/>
+					<attvalue for="14" value=""/>
+					<attvalue for="17" value="0.02"/>
+					<attvalue for="16" value="0.00244498777506112"/>
+					<attvalue for="19" value="0.000310462589257994"/>
+					<attvalue for="18" value="0.000475511174512601"/>
+					<attvalue for="20" value="0.000310462589257994"/>
+					<attvalue for="1" value="0.48938797421083"/>
+					<attvalue for="3" value="0"/>
+					<attvalue for="2" value="0.573082286119184"/>
+					<attvalue for="5" value=""/>
+					<attvalue for="4" value=""/>
+					<attvalue for="7" value="0.00276243093922652"/>
+					<attvalue for="6" value="0.000496277915632754"/>
+					<attvalue for="9" value="0.000305343511450382"/>
+					<attvalue for="8" value="0.000542005420054201"/>
+				</attvalues>
+			</node>
+			<node id="M_m3517" label="GMP">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="0.12467823806091"/>
+					<attvalue for="10" value="0.000305343511450382"/>
+					<attvalue for="13" value="0.0969154417230098"/>
+					<attvalue for="12" value="0"/>
+					<attvalue for="15" value="0.0916115017311271"/>
+					<attvalue for="14" value="0.0916115017311271"/>
+					<attvalue for="17" value="0.00044404973357016"/>
+					<attvalue for="16" value="0.00034106412005457"/>
+					<attvalue for="19" value="0.000448430493273543"/>
+					<attvalue for="18" value="0.000648929266709929"/>
+					<attvalue for="20" value="0.000448430493273543"/>
+					<attvalue for="1" value="0.0583941657823749"/>
+					<attvalue for="3" value="0"/>
+					<attvalue for="2" value="0.100551596791411"/>
+					<attvalue for="5" value=""/>
+					<attvalue for="4" value=""/>
+					<attvalue for="7" value="0.000526592943654555"/>
+					<attvalue for="6" value="0.000265604249667995"/>
+					<attvalue for="9" value="0.000305343511450382"/>
+					<attvalue for="8" value="0.000542005420054201"/>
+				</attvalues>
+			</node>
+			<node id="M_m3562" label="GTP">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="1.23855330771028"/>
+					<attvalue for="10" value="0.000305343511450382"/>
+					<attvalue for="13" value="0"/>
+					<attvalue for="12" value="1.54384661062531"/>
+					<attvalue for="15" value=""/>
+					<attvalue for="14" value=""/>
+					<attvalue for="17" value="0.0087719298245614"/>
+					<attvalue for="16" value="0.00202839756592292"/>
+					<attvalue for="19" value="0.000310462589257994"/>
+					<attvalue for="18" value="0.000475511174512601"/>
+					<attvalue for="20" value="0.000310462589257994"/>
+					<attvalue for="1" value="0.375676642990779"/>
+					<attvalue for="3" value="0"/>
+					<attvalue for="2" value="0.538816728735412"/>
+					<attvalue for="5" value=""/>
+					<attvalue for="4" value=""/>
+					<attvalue for="7" value="0.00255102040816327"/>
+					<attvalue for="6" value="0.000398406374501992"/>
+					<attvalue for="9" value="0.000305343511450382"/>
+					<attvalue for="8" value="0.000542005420054201"/>
+				</attvalues>
+			</node>
+			<node id="M_m3577" label="H+">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="0.382789905442566"/>
+					<attvalue for="10" value="0.000351370344342937"/>
+					<attvalue for="13" value="0"/>
+					<attvalue for="12" value="0.127552352210987"/>
+					<attvalue for="15" value="0.136772338144262"/>
+					<attvalue for="14" value="0.136772338144262"/>
+					<attvalue for="17" value="0.000564652738565782"/>
+					<attvalue for="16" value="0.000493096646942801"/>
+					<attvalue for="19" value="0.000519210799584631"/>
+					<attvalue for="18" value="0.000485436893203883"/>
+					<attvalue for="20" value="0.000519210799584631"/>
+					<attvalue for="1" value="0.116804332786448"/>
+					<attvalue for="3" value="0"/>
+					<attvalue for="2" value="0.126580574004967"/>
+					<attvalue for="5" value="0.0393960529014659"/>
+					<attvalue for="4" value="0.0393960529014659"/>
+					<attvalue for="7" value="0.000508388408744281"/>
+					<attvalue for="6" value="0.000284819139846198"/>
+					<attvalue for="9" value="0.000351370344342937"/>
+					<attvalue for="8" value="0.000542005420054201"/>
+				</attvalues>
+			</node>
+			<node id="M_m3585" label="H2O">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="1.97984596836167"/>
+					<attvalue for="10" value="0.00104931794333683"/>
+					<attvalue for="13" value="0.0108172487444525"/>
+					<attvalue for="12" value="0"/>
+					<attvalue for="15" value="1.80454316637183"/>
+					<attvalue for="14" value="1.80454316637183"/>
+					<attvalue for="17" value="0.000535618639528656"/>
+					<attvalue for="16" value="0.00613496932515337"/>
+					<attvalue for="19" value="0.00448430493273543"/>
+					<attvalue for="18" value="0.000479156684235745"/>
+					<attvalue for="20" value="0.00448430493273543"/>
+					<attvalue for="1" value="0.559106653527164"/>
+					<attvalue for="3" value="0.0716860978297456"/>
+					<attvalue for="2" value="0"/>
+					<attvalue for="5" value="0.524793857343782"/>
+					<attvalue for="4" value="0.524793857343782"/>
+					<attvalue for="7" value="0.000407166123778502"/>
+					<attvalue for="6" value="0.000550964187327824"/>
+					<attvalue for="9" value="0.00104931794333683"/>
+					<attvalue for="8" value="0.000777000777000777"/>
+				</attvalues>
+			</node>
+			<node id="M_m3592" label="H2O2">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="0.343882624261115"/>
+					<attvalue for="10" value="0.000334224598930481"/>
+					<attvalue for="13" value="0"/>
+					<attvalue for="12" value="0.509283221743048"/>
+					<attvalue for="15" value="0.0188521460288696"/>
+					<attvalue for="14" value="0.0188521460288696"/>
+					<attvalue for="17" value="0.00157977883096367"/>
+					<attvalue for="16" value="0.000481927710843373"/>
+					<attvalue for="19" value="0.000319795330988168"/>
+					<attvalue for="18" value="0.000475511174512601"/>
+					<attvalue for="20" value="0.000319795330988168"/>
+					<attvalue for="1" value="0.334212697764808"/>
+					<attvalue for="3" value="0"/>
+					<attvalue for="2" value="0.515856819701657"/>
+					<attvalue for="5" value="0.0263411534264227"/>
+					<attvalue for="4" value="0.0263411534264227"/>
+					<attvalue for="7" value="0.000999000999000999"/>
+					<attvalue for="6" value="0.00040016006402561"/>
+					<attvalue for="9" value="0.000334224598930481"/>
+					<attvalue for="8" value="0.000542005420054201"/>
+				</attvalues>
+			</node>
+			<node id="M_m3746" label="histone-L-lysine">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="0.496836024275199"/>
+					<attvalue for="10" value="0.00199600798403194"/>
+					<attvalue for="13" value="0.578856932928335"/>
+					<attvalue for="12" value="0"/>
+					<attvalue for="15" value="0.476656808058701"/>
+					<attvalue for="14" value="0.476656808058701"/>
+					<attvalue for="17" value="0.00044404973357016"/>
+					<attvalue for="16" value="0.000551876379690949"/>
+					<attvalue for="19" value="0.000732600732600733"/>
+					<attvalue for="18" value="0.00169204737732657"/>
+					<attvalue for="20" value="0.000732600732600733"/>
+					<attvalue for="1" value="0.657439156549168"/>
+					<attvalue for="3" value="1.55643975951159"/>
+					<attvalue for="2" value="0"/>
+					<attvalue for="5" value="0.879031434980623"/>
+					<attvalue for="4" value="0.879031434980623"/>
+					<attvalue for="7" value="0.000391389432485323"/>
+					<attvalue for="6" value="0.000625782227784731"/>
+					<attvalue for="9" value="0.00199600798403194"/>
+					<attvalue for="8" value="0.00380228136882129"/>
+				</attvalues>
+			</node>
+			<node id="M_m3748" label="histone-N6-methyl-L-lysine">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="0.496836024275199"/>
+					<attvalue for="10" value="0.00199600798403194"/>
+					<attvalue for="13" value="0.578856932928335"/>
+					<attvalue for="12" value="0"/>
+					<attvalue for="15" value="0.476656808058701"/>
+					<attvalue for="14" value="0.476656808058701"/>
+					<attvalue for="17" value="0.00044404973357016"/>
+					<attvalue for="16" value="0.000551876379690949"/>
+					<attvalue for="19" value="0.000732600732600733"/>
+					<attvalue for="18" value="0.00169204737732657"/>
+					<attvalue for="20" value="0.000732600732600733"/>
+					<attvalue for="1" value="0.657439156549168"/>
+					<attvalue for="3" value="1.55643975951159"/>
+					<attvalue for="2" value="0"/>
+					<attvalue for="5" value="0.879031434980623"/>
+					<attvalue for="4" value="0.879031434980623"/>
+					<attvalue for="7" value="0.000391389432485323"/>
+					<attvalue for="6" value="0.000625782227784731"/>
+					<attvalue for="9" value="0.00199600798403194"/>
+					<attvalue for="8" value="0.00380228136882129"/>
+				</attvalues>
+			</node>
+			<node id="M_m3802" label="IDP">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="0.721772442405258"/>
+					<attvalue for="10" value="0.000305343511450382"/>
+					<attvalue for="13" value="0"/>
+					<attvalue for="12" value="0.626701720385129"/>
+					<attvalue for="15" value=""/>
+					<attvalue for="14" value=""/>
+					<attvalue for="17" value="0.00355871886120996"/>
+					<attvalue for="16" value="0.000978473581213307"/>
+					<attvalue for="19" value="0.000310462589257994"/>
+					<attvalue for="18" value="0.000475511174512601"/>
+					<attvalue for="20" value="0.000310462589257994"/>
+					<attvalue for="1" value="0.201183677614051"/>
+					<attvalue for="3" value="0"/>
+					<attvalue for="2" value="0.307426252397087"/>
+					<attvalue for="5" value=""/>
+					<attvalue for="4" value=""/>
+					<attvalue for="7" value="0.000775795190069822"/>
+					<attvalue for="6" value="0.000316656111462951"/>
+					<attvalue for="9" value="0.000305343511450382"/>
+					<attvalue for="8" value="0.000542005420054201"/>
+				</attvalues>
+			</node>
+			<node id="M_m3862" label="ITP">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="0.721772442405258"/>
+					<attvalue for="10" value="0.000305343511450382"/>
+					<attvalue for="13" value="0"/>
+					<attvalue for="12" value="0.626701720385129"/>
+					<attvalue for="15" value=""/>
+					<attvalue for="14" value=""/>
+					<attvalue for="17" value="0.00355871886120996"/>
+					<attvalue for="16" value="0.000978473581213307"/>
+					<attvalue for="19" value="0.000310462589257994"/>
+					<attvalue for="18" value="0.000475511174512601"/>
+					<attvalue for="20" value="0.000310462589257994"/>
+					<attvalue for="1" value="0.201183677614051"/>
+					<attvalue for="3" value="0"/>
+					<attvalue for="2" value="0.307426252397087"/>
+					<attvalue for="5" value=""/>
+					<attvalue for="4" value=""/>
+					<attvalue for="7" value="0.000775795190069822"/>
+					<attvalue for="6" value="0.000316656111462951"/>
+					<attvalue for="9" value="0.000305343511450382"/>
+					<attvalue for="8" value="0.000542005420054201"/>
+				</attvalues>
+			</node>
+			<node id="M_m4085" label="leukotriene A4">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="0.947767909747666"/>
+					<attvalue for="10" value="0.000328407224958949"/>
+					<attvalue for="13" value="0"/>
+					<attvalue for="12" value="0.261830101936113"/>
+					<attvalue for="15" value="0.492873059629452"/>
+					<attvalue for="14" value="0.492873059629452"/>
+					<attvalue for="17" value="0.000709219858156028"/>
+					<attvalue for="16" value="0.00126422250316056"/>
+					<attvalue for="19" value="0.000809716599190283"/>
+					<attvalue for="18" value="0.000475511174512601"/>
+					<attvalue for="20" value="0.000809716599190283"/>
+					<attvalue for="1" value="0.309945753572323"/>
+					<attvalue for="3" value="0"/>
+					<attvalue for="2" value="0.524357862445299"/>
+					<attvalue for="5" value="0.0226239693450731"/>
+					<attvalue for="4" value="0.0226239693450731"/>
+					<attvalue for="7" value="0.00101522842639594"/>
+					<attvalue for="6" value="0.000398406374501992"/>
+					<attvalue for="9" value="0.000328407224958949"/>
+					<attvalue for="8" value="0.000542005420054201"/>
+				</attvalues>
+			</node>
+			<node id="M_m4102" label="leukotriene E4">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="0.409258450021787"/>
+					<attvalue for="10" value="0.000731528895391368"/>
+					<attvalue for="13" value="0"/>
+					<attvalue for="12" value="0.391121111826984"/>
+					<attvalue for="15" value="0.119317858835628"/>
+					<attvalue for="14" value="0.119317858835628"/>
+					<attvalue for="17" value="0.00151515151515152"/>
+					<attvalue for="16" value="0.000504795557799091"/>
+					<attvalue for="19" value="0.000473709142586452"/>
+					<attvalue for="18" value="0.000475511174512601"/>
+					<attvalue for="20" value="0.000473709142586452"/>
+					<attvalue for="1" value="0.612841621727287"/>
+					<attvalue for="3" value="0"/>
+					<attvalue for="2" value="0.406813654895434"/>
+					<attvalue for="5" value="0.358099736483789"/>
+					<attvalue for="4" value="0.358099736483789"/>
+					<attvalue for="7" value="0.00103734439834025"/>
+					<attvalue for="6" value="0.000555247084952804"/>
+					<attvalue for="9" value="0.000731528895391368"/>
+					<attvalue for="8" value="0.000542005420054201"/>
+				</attvalues>
+			</node>
+			<node id="M_m4156" label="lipoxin A4">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="0.115187649636857"/>
+					<attvalue for="10" value="0.00051150895140665"/>
+					<attvalue for="13" value="0.281299063010909"/>
+					<attvalue for="12" value="0"/>
+					<attvalue for="15" value="0.476656808058701"/>
+					<attvalue for="14" value="0.476656808058701"/>
+					<attvalue for="17" value="0.00044404973357016"/>
+					<attvalue for="16" value="0.000360490266762797"/>
+					<attvalue for="19" value="0.000772797527047913"/>
+					<attvalue for="18" value="0.000798084596967279"/>
+					<attvalue for="20" value="0.000772797527047913"/>
+					<attvalue for="1" value="0.0780535457705898"/>
+					<attvalue for="3" value="0.0254790964487477"/>
+					<attvalue for="2" value="0"/>
+					<attvalue for="5" value="0.193358833094466"/>
+					<attvalue for="4" value="0.193358833094466"/>
+					<attvalue for="7" value="0.000391389432485323"/>
+					<attvalue for="6" value="0.000278164116828929"/>
+					<attvalue for="9" value="0.00051150895140665"/>
+					<attvalue for="8" value="0.000658761528326746"/>
+				</attvalues>
+			</node>
+			<node id="M_m4160" label="lipoxin B4">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="0.495733079505996"/>
+					<attvalue for="10" value="0.00051150895140665"/>
+					<attvalue for="13" value="0"/>
+					<attvalue for="12" value="0.228669791700493"/>
+					<attvalue for="15" value="0.476656808058701"/>
+					<attvalue for="14" value="0.476656808058701"/>
+					<attvalue for="17" value="0.000709219858156028"/>
+					<attvalue for="16" value="0.000621504039776259"/>
+					<attvalue for="19" value="0.000772797527047913"/>
+					<attvalue for="18" value="0.000475511174512601"/>
+					<attvalue for="20" value="0.000772797527047913"/>
+					<attvalue for="1" value="0.292949585064291"/>
+					<attvalue for="3" value="0"/>
+					<attvalue for="2" value="0.366006668396432"/>
+					<attvalue for="5" value="0.193358833094466"/>
+					<attvalue for="4" value="0.193358833094466"/>
+					<attvalue for="7" value="0.000701754385964912"/>
+					<attvalue for="6" value="0.000366300366300366"/>
+					<attvalue for="9" value="0.00051150895140665"/>
+					<attvalue for="8" value="0.000542005420054201"/>
+				</attvalues>
+			</node>
+			<node id="M_m4326" label="myo-inositol-hexakisphosphate">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="0.627677270501444"/>
+					<attvalue for="10" value="0.000777604976671851"/>
+					<attvalue for="13" value="0.783570169123749"/>
+					<attvalue for="12" value="0"/>
+					<attvalue for="15" value="0.623496039747072"/>
+					<attvalue for="14" value="0.623496039747072"/>
+					<attvalue for="17" value="0.00044404973357016"/>
+					<attvalue for="16" value="0.000719424460431655"/>
+					<attvalue for="19" value="0.00102669404517454"/>
+					<attvalue for="18" value="0.00222222222222222"/>
+					<attvalue for="20" value="0.00102669404517454"/>
+					<attvalue for="1" value="0.48530617896143"/>
+					<attvalue for="3" value="0.497136073861668"/>
+					<attvalue for="2" value="0"/>
+					<attvalue for="5" value="0.358099736483789"/>
+					<attvalue for="4" value="0.358099736483789"/>
+					<attvalue for="7" value="0.000391389432485323"/>
+					<attvalue for="6" value="0.0005005005005005"/>
+					<attvalue for="9" value="0.000777604976671851"/>
+					<attvalue for="8" value="0.00167785234899329"/>
+				</attvalues>
+			</node>
+			<node id="M_m4399" label="N-acetyl-LTE4">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="0.409258450021787"/>
+					<attvalue for="10" value="0.000731528895391368"/>
+					<attvalue for="13" value="0"/>
+					<attvalue for="12" value="0.391121111826984"/>
+					<attvalue for="15" value="0.119317858835628"/>
+					<attvalue for="14" value="0.119317858835628"/>
+					<attvalue for="17" value="0.00151515151515152"/>
+					<attvalue for="16" value="0.000504795557799091"/>
+					<attvalue for="19" value="0.000473709142586452"/>
+					<attvalue for="18" value="0.000475511174512601"/>
+					<attvalue for="20" value="0.000473709142586452"/>
+					<attvalue for="1" value="0.612841621727287"/>
+					<attvalue for="3" value="0"/>
+					<attvalue for="2" value="0.406813654895434"/>
+					<attvalue for="5" value="0.358099736483789"/>
+					<attvalue for="4" value="0.358099736483789"/>
+					<attvalue for="7" value="0.00103734439834025"/>
+					<attvalue for="6" value="0.000555247084952804"/>
+					<attvalue for="9" value="0.000731528895391368"/>
+					<attvalue for="8" value="0.000542005420054201"/>
+				</attvalues>
+			</node>
+			<node id="M_m4407" label="N-acetylneuraminate">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="0.134937501573639"/>
+					<attvalue for="10" value="0.000410004100041"/>
+					<attvalue for="13" value="0.105335090821092"/>
+					<attvalue for="12" value="0"/>
+					<attvalue for="15" value="0.0950627669312198"/>
+					<attvalue for="14" value="0.0950627669312198"/>
+					<attvalue for="17" value="0.00044404973357016"/>
+					<attvalue for="16" value="0.000346260387811634"/>
+					<attvalue for="19" value="0.00045024763619991"/>
+					<attvalue for="18" value="0.000651465798045603"/>
+					<attvalue for="20" value="0.00045024763619991"/>
+					<attvalue for="1" value="0.197588908072786"/>
+					<attvalue for="3" value="0.0937835162941686"/>
+					<attvalue for="2" value="0"/>
+					<attvalue for="5" value="0.176121660733486"/>
+					<attvalue for="4" value="0.176121660733486"/>
+					<attvalue for="7" value="0.000391389432485323"/>
+					<attvalue for="6" value="0.000321750321750322"/>
+					<attvalue for="9" value="0.000410004100041"/>
+					<attvalue for="8" value="0.000772200772200772"/>
+				</attvalues>
+			</node>
+			<node id="M_m4418" label="NAD+">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="0.174495988862422"/>
+					<attvalue for="10" value="0.000379650721336371"/>
+					<attvalue for="13" value="0.0748994335641729"/>
+					<attvalue for="12" value="0"/>
+					<attvalue for="15" value="0.162266400371745"/>
+					<attvalue for="14" value="0.162266400371745"/>
+					<attvalue for="17" value="0.00044404973357016"/>
+					<attvalue for="16" value="0.000357270453733476"/>
+					<attvalue for="19" value="0.000492125984251968"/>
+					<attvalue for="18" value="0.00060313630880579"/>
+					<attvalue for="20" value="0.000492125984251968"/>
+					<attvalue for="1" value="0.152902610407911"/>
+					<attvalue for="3" value="0.155305420783313"/>
+					<attvalue for="2" value="0"/>
+					<attvalue for="5" value="0.122450134739271"/>
+					<attvalue for="4" value="0.122450134739271"/>
+					<attvalue for="7" value="0.000391389432485323"/>
+					<attvalue for="6" value="0.000300210147102972"/>
+					<attvalue for="9" value="0.000379650721336371"/>
+					<attvalue for="8" value="0.000929368029739777"/>
+				</attvalues>
+			</node>
+			<node id="M_m4430" label="NADP+">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="0.628673486138254"/>
+					<attvalue for="10" value="0.00051150895140665"/>
+					<attvalue for="13" value="0"/>
+					<attvalue for="12" value="0.131820076025483"/>
+					<attvalue for="15" value="0.383146546584863"/>
+					<attvalue for="14" value="0.383146546584863"/>
+					<attvalue for="17" value="0.00056980056980057"/>
+					<attvalue for="16" value="0.000630119722747322"/>
+					<attvalue for="19" value="0.000688231245698555"/>
+					<attvalue for="18" value="0.000485436893203883"/>
+					<attvalue for="20" value="0.000688231245698555"/>
+					<attvalue for="1" value="0.262401886952914"/>
+					<attvalue for="3" value="0"/>
+					<attvalue for="2" value="0.0893755951107988"/>
+					<attvalue for="5" value="0.193358833094466"/>
+					<attvalue for="4" value="0.193358833094466"/>
+					<attvalue for="7" value="0.000496770988574267"/>
+					<attvalue for="6" value="0.000369959304476508"/>
+					<attvalue for="9" value="0.00051150895140665"/>
+					<attvalue for="8" value="0.000542005420054201"/>
+				</attvalues>
+			</node>
+			<node id="M_m4437" label="NADPH">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="0.649868326127462"/>
+					<attvalue for="10" value="0.000411353352529823"/>
+					<attvalue for="13" value="0"/>
+					<attvalue for="12" value="0.187039875700383"/>
+					<attvalue for="15" value="0.442637185910346"/>
+					<attvalue for="14" value="0.442637185910346"/>
+					<attvalue for="17" value="0.000736377025036819"/>
+					<attvalue for="16" value="0.000672043010752688"/>
+					<attvalue for="19" value="0.000738007380073801"/>
+					<attvalue for="18" value="0.000475511174512601"/>
+					<attvalue for="20" value="0.000738007380073801"/>
+					<attvalue for="1" value="0.20834443272649"/>
+					<attvalue for="3" value="0"/>
+					<attvalue for="2" value="0.20706927942589"/>
+					<attvalue for="5" value="0.140105499693635"/>
+					<attvalue for="4" value="0.140105499693635"/>
+					<attvalue for="7" value="0.000619962802231866"/>
+					<attvalue for="6" value="0.000328623069339468"/>
+					<attvalue for="9" value="0.000411353352529823"/>
+					<attvalue for="8" value="0.000542005420054201"/>
+				</attvalues>
+			</node>
+			<node id="M_m4468" label="NH3">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="0.146095030551792"/>
+					<attvalue for="10" value="0.000368459837877671"/>
+					<attvalue for="13" value="0"/>
+					<attvalue for="12" value="0.213589334625081"/>
+					<attvalue for="15" value=""/>
+					<attvalue for="14" value=""/>
+					<attvalue for="17" value="0.000912408759124088"/>
+					<attvalue for="16" value="0.000347584289190129"/>
+					<attvalue for="19" value="0.000310462589257994"/>
+					<attvalue for="18" value="0.000475511174512601"/>
+					<attvalue for="20" value="0.000310462589257994"/>
+					<attvalue for="1" value="0.131855375910238"/>
+					<attvalue for="3" value="0.0787870855798404"/>
+					<attvalue for="2" value="0"/>
+					<attvalue for="5" value="0.0968882988268113"/>
+					<attvalue for="4" value="0.0968882988268113"/>
+					<attvalue for="7" value="0.000391389432485323"/>
+					<attvalue for="6" value="0.000292997363023733"/>
+					<attvalue for="9" value="0.000368459837877671"/>
+					<attvalue for="8" value="0.0008058017727639"/>
+				</attvalues>
+			</node>
+			<node id="M_m4478" label="nicotinamide D-ribonucleotide">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="0.177583449701037"/>
+					<attvalue for="10" value="0.000385802469135802"/>
+					<attvalue for="13" value="0.160905507814677"/>
+					<attvalue for="12" value="0"/>
+					<attvalue for="15" value="0.146727775979317"/>
+					<attvalue for="14" value="0.146727775979317"/>
+					<attvalue for="17" value="0.00044404973357016"/>
+					<attvalue for="16" value="0.000373552484124019"/>
+					<attvalue for="19" value="0.000488997555012225"/>
+					<attvalue for="18" value="0.000723589001447178"/>
+					<attvalue for="20" value="0.000488997555012225"/>
+					<attvalue for="1" value="0.151773923348828"/>
+					<attvalue for="3" value="0.0618757228262381"/>
+					<attvalue for="2" value="0"/>
+					<attvalue for="5" value="0.122755389843257"/>
+					<attvalue for="4" value="0.122755389843257"/>
+					<attvalue for="7" value="0.000391389432485323"/>
+					<attvalue for="6" value="0.000304692260816575"/>
+					<attvalue for="9" value="0.000385802469135802"/>
+					<attvalue for="8" value="0.000714285714285714"/>
+				</attvalues>
+			</node>
+			<node id="M_m4484" label="nicotinate ribonucleotide">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="0.177583449701037"/>
+					<attvalue for="10" value="0.000385802469135802"/>
+					<attvalue for="13" value="0.160905507814677"/>
+					<attvalue for="12" value="0"/>
+					<attvalue for="15" value="0.146727775979317"/>
+					<attvalue for="14" value="0.146727775979317"/>
+					<attvalue for="17" value="0.00044404973357016"/>
+					<attvalue for="16" value="0.000373552484124019"/>
+					<attvalue for="19" value="0.000488997555012225"/>
+					<attvalue for="18" value="0.000723589001447178"/>
+					<attvalue for="20" value="0.000488997555012225"/>
+					<attvalue for="1" value="0.151773923348828"/>
+					<attvalue for="3" value="0.0618757228262381"/>
+					<attvalue for="2" value="0"/>
+					<attvalue for="5" value="0.122755389843257"/>
+					<attvalue for="4" value="0.122755389843257"/>
+					<attvalue for="7" value="0.000391389432485323"/>
+					<attvalue for="6" value="0.000304692260816575"/>
+					<attvalue for="9" value="0.000385802469135802"/>
+					<attvalue for="8" value="0.000714285714285714"/>
+				</attvalues>
+			</node>
+			<node id="M_m4555" label="O2">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="0.443601000069577"/>
+					<attvalue for="10" value="0.000323310701584222"/>
+					<attvalue for="13" value="0"/>
+					<attvalue for="12" value="0.391121111826984"/>
+					<attvalue for="15" value="0.0919870637115307"/>
+					<attvalue for="14" value="0.0919870637115307"/>
+					<attvalue for="17" value="0.0014367816091954"/>
+					<attvalue for="16" value="0.000575043128234618"/>
+					<attvalue for="19" value="0.000492853622474125"/>
+					<attvalue for="18" value="0.000475511174512601"/>
+					<attvalue for="20" value="0.000492853622474125"/>
+					<attvalue for="1" value="0.0850330918895073"/>
+					<attvalue for="3" value="0"/>
+					<attvalue for="2" value="0.281897081822832"/>
+					<attvalue for="5" value="0.0202195173257682"/>
+					<attvalue for="4" value="0.0202195173257682"/>
+					<attvalue for="7" value="0.000667556742323097"/>
+					<attvalue for="6" value="0.000271517784414879"/>
+					<attvalue for="9" value="0.000323310701584222"/>
+					<attvalue for="8" value="0.000542005420054201"/>
+				</attvalues>
+			</node>
+			<node id="M_m4556" label="O2-">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="0.0221438408370281"/>
+					<attvalue for="10" value="0.000334224598930481"/>
+					<attvalue for="13" value="0.0025699262025288"/>
+					<attvalue for="12" value="0"/>
+					<attvalue for="15" value="0.0188521460288696"/>
+					<attvalue for="14" value="0.0188521460288696"/>
+					<attvalue for="17" value="0.0004516711833785"/>
+					<attvalue for="16" value="0.000257599175682638"/>
+					<attvalue for="19" value="0.000319795330988168"/>
+					<attvalue for="18" value="0.000492125984251968"/>
+					<attvalue for="20" value="0.000319795330988168"/>
+					<attvalue for="1" value="0.0480023115242852"/>
+					<attvalue for="3" value="0"/>
+					<attvalue for="2" value="0.0297507812598643"/>
+					<attvalue for="5" value="0.0263411534264227"/>
+					<attvalue for="4" value="0.0263411534264227"/>
+					<attvalue for="7" value="0.000426985482493595"/>
+					<attvalue for="6" value="0.000263435194942044"/>
+					<attvalue for="9" value="0.000334224598930481"/>
+					<attvalue for="8" value="0.000542005420054201"/>
+				</attvalues>
+			</node>
+			<node id="M_m4563" label="O2-4a-cyclic-tetrahydrobiopterin">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="0.628673486138254"/>
+					<attvalue for="10" value="0.00110253583241455"/>
+					<attvalue for="13" value="0.662520771605968"/>
+					<attvalue for="12" value="0"/>
+					<attvalue for="15" value="0.640676870023793"/>
+					<attvalue for="14" value="0.640676870023793"/>
+					<attvalue for="17" value="0.00044404973357016"/>
+					<attvalue for="16" value="0.000709219858156028"/>
+					<attvalue for="19" value="0.00102145045965271"/>
+					<attvalue for="18" value="0.00171821305841924"/>
+					<attvalue for="20" value="0.00102145045965271"/>
+					<attvalue for="1" value="0.653862269839556"/>
+					<attvalue for="3" value="0.548121497666496"/>
+					<attvalue for="2" value="0"/>
+					<attvalue for="5" value="0.50719771963523"/>
+					<attvalue for="4" value="0.50719771963523"/>
+					<attvalue for="7" value="0.000391389432485323"/>
+					<attvalue for="6" value="0.000657894736842105"/>
+					<attvalue for="9" value="0.00110253583241455"/>
+					<attvalue for="8" value="0.00151515151515152"/>
+				</attvalues>
+			</node>
+			<node id="M_m4640" label="oxidized thioredoxin">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="1.13354724690432"/>
+					<attvalue for="10" value="0.000363372093023256"/>
+					<attvalue for="13" value="0"/>
+					<attvalue for="12" value="1.26532015783612"/>
+					<attvalue for="15" value=""/>
+					<attvalue for="14" value=""/>
+					<attvalue for="17" value="0.00666666666666667"/>
+					<attvalue for="16" value="0.00166944908180301"/>
+					<attvalue for="19" value="0.000310462589257994"/>
+					<attvalue for="18" value="0.000475511174512601"/>
+					<attvalue for="20" value="0.000310462589257994"/>
+					<attvalue for="1" value="0.7904581779834"/>
+					<attvalue for="3" value="0"/>
+					<attvalue for="2" value="0.808744657753735"/>
+					<attvalue for="5" value="0.0776223243550215"/>
+					<attvalue for="4" value="0.0776223243550215"/>
+					<attvalue for="7" value="0.00318471337579618"/>
+					<attvalue for="6" value="0.000843170320404722"/>
+					<attvalue for="9" value="0.000363372093023256"/>
+					<attvalue for="8" value="0.000542005420054201"/>
+				</attvalues>
+			</node>
+			<node id="M_m4743" label="PGH3">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="0.288083157059695"/>
+					<attvalue for="10" value="0.000369276218611521"/>
+					<attvalue for="13" value="0.0305235143139667"/>
+					<attvalue for="12" value="0"/>
+					<attvalue for="15" value="0.634886568372423"/>
+					<attvalue for="14" value="0.634886568372423"/>
+					<attvalue for="17" value="0.000551267916207277"/>
+					<attvalue for="16" value="0.000399361022364217"/>
+					<attvalue for="19" value="0.00100806451612903"/>
+					<attvalue for="18" value="0.0005005005005005"/>
+					<attvalue for="20" value="0.00100806451612903"/>
+					<attvalue for="1" value="0.0338629623618264"/>
+					<attvalue for="3" value="0"/>
+					<attvalue for="2" value="0.0205927711745068"/>
+					<attvalue for="5" value="0.0379433552333996"/>
+					<attvalue for="4" value="0.0379433552333996"/>
+					<attvalue for="7" value="0.0004293688278231"/>
+					<attvalue for="6" value="0.00026048450117218"/>
+					<attvalue for="9" value="0.000369276218611521"/>
+					<attvalue for="8" value="0.000542005420054201"/>
+				</attvalues>
+			</node>
+			<node id="M_m4809" label="Pi">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="0.627677270501444"/>
+					<attvalue for="10" value="0.000777604976671851"/>
+					<attvalue for="13" value="0.783570169123749"/>
+					<attvalue for="12" value="0"/>
+					<attvalue for="15" value="0.623496039747072"/>
+					<attvalue for="14" value="0.623496039747072"/>
+					<attvalue for="17" value="0.00044404973357016"/>
+					<attvalue for="16" value="0.000719424460431655"/>
+					<attvalue for="19" value="0.00102669404517454"/>
+					<attvalue for="18" value="0.00222222222222222"/>
+					<attvalue for="20" value="0.00102669404517454"/>
+					<attvalue for="1" value="0.48530617896143"/>
+					<attvalue for="3" value="0.497136073861668"/>
+					<attvalue for="2" value="0"/>
+					<attvalue for="5" value="0.358099736483789"/>
+					<attvalue for="4" value="0.358099736483789"/>
+					<attvalue for="7" value="0.000391389432485323"/>
+					<attvalue for="6" value="0.0005005005005005"/>
+					<attvalue for="9" value="0.000777604976671851"/>
+					<attvalue for="8" value="0.00167785234899329"/>
+				</attvalues>
+			</node>
+			<node id="M_m4823" label="PPARA">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="1.37450234444232"/>
+					<attvalue for="10" value="0.0108695652173913"/>
+					<attvalue for="13" value="0.254987701328606"/>
+					<attvalue for="12" value="0"/>
+					<attvalue for="15" value="0.874356107642608"/>
+					<attvalue for="14" value="0.874356107642608"/>
+					<attvalue for="17" value="0.000476190476190476"/>
+					<attvalue for="16" value="0.00238663484486874"/>
+					<attvalue for="19" value="0.00130208333333333"/>
+					<attvalue for="18" value="0.000753012048192771"/>
+					<attvalue for="20" value="0.00130208333333333"/>
+					<attvalue for="1" value="1.6680263828625"/>
+					<attvalue for="3" value="1.40633741225359"/>
+					<attvalue for="2" value="0"/>
+					<attvalue for="5" value="1.86892695196565"/>
+					<attvalue for="4" value="1.86892695196565"/>
+					<attvalue for="7" value="0.000391389432485323"/>
+					<attvalue for="6" value="0.00704225352112676"/>
+					<attvalue for="9" value="0.0108695652173913"/>
+					<attvalue for="8" value="0.00304878048780488"/>
+				</attvalues>
+			</node>
+			<node id="M_m4827" label="PPi">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="0.252013656540559"/>
+					<attvalue for="10" value="0.000346981263011797"/>
+					<attvalue for="13" value="0"/>
+					<attvalue for="12" value="0.132880322673004"/>
+					<attvalue for="15" value="0.106871004831049"/>
+					<attvalue for="14" value="0.106871004831049"/>
+					<attvalue for="17" value="0.00061576354679803"/>
+					<attvalue for="16" value="0.000383582662063675"/>
+					<attvalue for="19" value="0.000448430493273543"/>
+					<attvalue for="18" value="0.000475511174512601"/>
+					<attvalue for="20" value="0.000448430493273543"/>
+					<attvalue for="1" value="0.0859584675183876"/>
+					<attvalue for="3" value="0.0873528937816828"/>
+					<attvalue for="2" value="0"/>
+					<attvalue for="5" value="0.0483128546064502"/>
+					<attvalue for="4" value="0.0483128546064502"/>
+					<attvalue for="7" value="0.000391389432485323"/>
+					<attvalue for="6" value="0.000268672756582483"/>
+					<attvalue for="9" value="0.000346981263011797"/>
+					<attvalue for="8" value="0.000873362445414847"/>
+				</attvalues>
+			</node>
+			<node id="M_m4886" label="prostaglandin E3">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="0.402195157595707"/>
+					<attvalue for="10" value="0.000369276218611521"/>
+					<attvalue for="13" value="0.339893778276756"/>
+					<attvalue for="12" value="0"/>
+					<attvalue for="15" value="0.634886568372423"/>
+					<attvalue for="14" value="0.634886568372423"/>
+					<attvalue for="17" value="0.00044404973357016"/>
+					<attvalue for="16" value="0.000503271263210871"/>
+					<attvalue for="19" value="0.00100806451612903"/>
+					<attvalue for="18" value="0.000779423226812159"/>
+					<attvalue for="20" value="0.00100806451612903"/>
+					<attvalue for="1" value="0.0741312131450214"/>
+					<attvalue for="3" value="0.108111457671681"/>
+					<attvalue for="2" value="0"/>
+					<attvalue for="5" value="0.0379433552333996"/>
+					<attvalue for="4" value="0.0379433552333996"/>
+					<attvalue for="7" value="0.000391389432485323"/>
+					<attvalue for="6" value="0.00029655990510083"/>
+					<attvalue for="9" value="0.000369276218611521"/>
+					<attvalue for="8" value="0.000806451612903226"/>
+				</attvalues>
+			</node>
+			<node id="M_m4958" label="quinonoid dihydrobiopterin">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="0.628673486138254"/>
+					<attvalue for="10" value="0.00110253583241455"/>
+					<attvalue for="13" value="0.662520771605968"/>
+					<attvalue for="12" value="0"/>
+					<attvalue for="15" value="0.640676870023793"/>
+					<attvalue for="14" value="0.640676870023793"/>
+					<attvalue for="17" value="0.00044404973357016"/>
+					<attvalue for="16" value="0.000709219858156028"/>
+					<attvalue for="19" value="0.00102145045965271"/>
+					<attvalue for="18" value="0.00171821305841924"/>
+					<attvalue for="20" value="0.00102145045965271"/>
+					<attvalue for="1" value="0.653862269839556"/>
+					<attvalue for="3" value="0.548121497666496"/>
+					<attvalue for="2" value="0"/>
+					<attvalue for="5" value="0.50719771963523"/>
+					<attvalue for="4" value="0.50719771963523"/>
+					<attvalue for="7" value="0.000391389432485323"/>
+					<attvalue for="6" value="0.000657894736842105"/>
+					<attvalue for="9" value="0.00110253583241455"/>
+					<attvalue for="8" value="0.00151515151515152"/>
+				</attvalues>
+			</node>
+			<node id="M_m5029" label="SAH">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="0.496836024275199"/>
+					<attvalue for="10" value="0.00199600798403194"/>
+					<attvalue for="13" value="0.578856932928335"/>
+					<attvalue for="12" value="0"/>
+					<attvalue for="15" value="0.476656808058701"/>
+					<attvalue for="14" value="0.476656808058701"/>
+					<attvalue for="17" value="0.00044404973357016"/>
+					<attvalue for="16" value="0.000551876379690949"/>
+					<attvalue for="19" value="0.000732600732600733"/>
+					<attvalue for="18" value="0.00169204737732657"/>
+					<attvalue for="20" value="0.000732600732600733"/>
+					<attvalue for="1" value="0.657439156549168"/>
+					<attvalue for="3" value="1.55643975951159"/>
+					<attvalue for="2" value="0"/>
+					<attvalue for="5" value="0.879031434980623"/>
+					<attvalue for="4" value="0.879031434980623"/>
+					<attvalue for="7" value="0.000391389432485323"/>
+					<attvalue for="6" value="0.000625782227784731"/>
+					<attvalue for="9" value="0.00199600798403194"/>
+					<attvalue for="8" value="0.00380228136882129"/>
+				</attvalues>
+			</node>
+			<node id="M_m5038" label="SAM">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="0.496836024275199"/>
+					<attvalue for="10" value="0.00199600798403194"/>
+					<attvalue for="13" value="0.578856932928335"/>
+					<attvalue for="12" value="0"/>
+					<attvalue for="15" value="0.476656808058701"/>
+					<attvalue for="14" value="0.476656808058701"/>
+					<attvalue for="17" value="0.00044404973357016"/>
+					<attvalue for="16" value="0.000551876379690949"/>
+					<attvalue for="19" value="0.000732600732600733"/>
+					<attvalue for="18" value="0.00169204737732657"/>
+					<attvalue for="20" value="0.000732600732600733"/>
+					<attvalue for="1" value="0.657439156549168"/>
+					<attvalue for="3" value="1.55643975951159"/>
+					<attvalue for="2" value="0"/>
+					<attvalue for="5" value="0.879031434980623"/>
+					<attvalue for="4" value="0.879031434980623"/>
+					<attvalue for="7" value="0.000391389432485323"/>
+					<attvalue for="6" value="0.000625782227784731"/>
+					<attvalue for="9" value="0.00199600798403194"/>
+					<attvalue for="8" value="0.00380228136882129"/>
+				</attvalues>
+			</node>
+			<node id="M_m5248" label="tetrahydrobiopterin">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="0.263093799747267"/>
+					<attvalue for="10" value="0.000797448165869219"/>
+					<attvalue for="13" value="0.255785275185834"/>
+					<attvalue for="12" value="0"/>
+					<attvalue for="15" value="0.206607784682648"/>
+					<attvalue for="14" value="0.206607784682648"/>
+					<attvalue for="17" value="0.00044404973357016"/>
+					<attvalue for="16" value="0.000412371134020619"/>
+					<attvalue for="19" value="0.000572409845449342"/>
+					<attvalue for="18" value="0.00080450522928399"/>
+					<attvalue for="20" value="0.000572409845449342"/>
+					<attvalue for="1" value="0.4817493486915"/>
+					<attvalue for="3" value="0.370243919137234"/>
+					<attvalue for="2" value="0"/>
+					<attvalue for="5" value="0.358099736483789"/>
+					<attvalue for="4" value="0.358099736483789"/>
+					<attvalue for="7" value="0.000391389432485323"/>
+					<attvalue for="6" value="0.000496277915632754"/>
+					<attvalue for="9" value="0.000797448165869219"/>
+					<attvalue for="8" value="0.00112994350282486"/>
+				</attvalues>
+			</node>
+			<node id="M_m5272" label="thioredoxin">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="1.13354724690432"/>
+					<attvalue for="10" value="0.000363372093023256"/>
+					<attvalue for="13" value="0"/>
+					<attvalue for="12" value="1.26532015783612"/>
+					<attvalue for="15" value=""/>
+					<attvalue for="14" value=""/>
+					<attvalue for="17" value="0.00666666666666667"/>
+					<attvalue for="16" value="0.00166944908180301"/>
+					<attvalue for="19" value="0.000310462589257994"/>
+					<attvalue for="18" value="0.000475511174512601"/>
+					<attvalue for="20" value="0.000310462589257994"/>
+					<attvalue for="1" value="0.7904581779834"/>
+					<attvalue for="3" value="0"/>
+					<attvalue for="2" value="0.808744657753735"/>
+					<attvalue for="5" value="0.0776223243550215"/>
+					<attvalue for="4" value="0.0776223243550215"/>
+					<attvalue for="7" value="0.00318471337579618"/>
+					<attvalue for="6" value="0.000843170320404722"/>
+					<attvalue for="9" value="0.000363372093023256"/>
+					<attvalue for="8" value="0.000542005420054201"/>
+				</attvalues>
+			</node>
+			<node id="M_m5403" label="triphosphate">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="0.263093799747267"/>
+					<attvalue for="10" value="0.000305343511450382"/>
+					<attvalue for="13" value="0.255785275185834"/>
+					<attvalue for="12" value="0"/>
+					<attvalue for="15" value="0.206607784682648"/>
+					<attvalue for="14" value="0.206607784682648"/>
+					<attvalue for="17" value="0.00044404973357016"/>
+					<attvalue for="16" value="0.000412371134020619"/>
+					<attvalue for="19" value="0.000572409845449342"/>
+					<attvalue for="18" value="0.00080450522928399"/>
+					<attvalue for="20" value="0.000572409845449342"/>
+					<attvalue for="1" value="0.162045595653679"/>
+					<attvalue for="3" value="0"/>
+					<attvalue for="2" value="0.2002253730671"/>
+					<attvalue for="5" value=""/>
+					<attvalue for="4" value=""/>
+					<attvalue for="7" value="0.000628535512256443"/>
+					<attvalue for="6" value="0.00030826140567201"/>
+					<attvalue for="9" value="0.000305343511450382"/>
+					<attvalue for="8" value="0.000542005420054201"/>
+				</attvalues>
+			</node>
+			<node id="M_m5488" label="UDP">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="1.39046961925099"/>
+					<attvalue for="10" value="0.000305343511450382"/>
+					<attvalue for="13" value="0"/>
+					<attvalue for="12" value="1.54384661062531"/>
+					<attvalue for="15" value=""/>
+					<attvalue for="14" value=""/>
+					<attvalue for="17" value="0.02"/>
+					<attvalue for="16" value="0.00244498777506112"/>
+					<attvalue for="19" value="0.000310462589257994"/>
+					<attvalue for="18" value="0.000475511174512601"/>
+					<attvalue for="20" value="0.000310462589257994"/>
+					<attvalue for="1" value="0.48938797421083"/>
+					<attvalue for="3" value="0"/>
+					<attvalue for="2" value="0.573082286119184"/>
+					<attvalue for="5" value=""/>
+					<attvalue for="4" value=""/>
+					<attvalue for="7" value="0.00276243093922652"/>
+					<attvalue for="6" value="0.000496277915632754"/>
+					<attvalue for="9" value="0.000305343511450382"/>
+					<attvalue for="8" value="0.000542005420054201"/>
+				</attvalues>
+			</node>
+			<node id="M_m5516" label="UMP">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="1.10215856307161"/>
+					<attvalue for="10" value="0.000305343511450382"/>
+					<attvalue for="13" value="0"/>
+					<attvalue for="12" value="0.924416544806187"/>
+					<attvalue for="15" value=""/>
+					<attvalue for="14" value=""/>
+					<attvalue for="17" value="0.00442477876106195"/>
+					<attvalue for="16" value="0.00173010380622837"/>
+					<attvalue for="19" value="0.000310462589257994"/>
+					<attvalue for="18" value="0.000475511174512601"/>
+					<attvalue for="20" value="0.000310462589257994"/>
+					<attvalue for="1" value="0.747438213793671"/>
+					<attvalue for="3" value="0"/>
+					<attvalue for="2" value="0.613358373864372"/>
+					<attvalue for="5" value=""/>
+					<attvalue for="4" value=""/>
+					<attvalue for="7" value="0.00248138957816377"/>
+					<attvalue for="6" value="0.000865051903114187"/>
+					<attvalue for="9" value="0.000305343511450382"/>
+					<attvalue for="8" value="0.000542005420054201"/>
+				</attvalues>
+			</node>
+			<node id="M_m5548" label="UTP">
+				<attvalues>
+					<attvalue for="0" value="metabolite"/>
+					<attvalue for="11" value="0.983970036923976"/>
+					<attvalue for="10" value="0.000363768643142961"/>
+					<attvalue for="13" value="0"/>
+					<attvalue for="12" value="1.08855473314823"/>
+					<attvalue for="15" value="0.10400871289362"/>
+					<attvalue for="14" value="0.10400871289362"/>
+					<attvalue for="17" value="0.0037593984962406"/>
+					<attvalue for="16" value="0.00125944584382872"/>
+					<attvalue for="19" value="0.000441891294741494"/>
+					<attvalue for="18" value="0.000475511174512601"/>
+					<attvalue for="20" value="0.000441891294741494"/>
+					<attvalue for="1" value="0.601782131765123"/>
+					<attvalue for="3" value="0"/>
+					<attvalue for="2" value="0.535659515372333"/>
+					<attvalue for="5" value="0.103655695196633"/>
+					<attvalue for="4" value="0.103655695196633"/>
+					<attvalue for="7" value="0.000901713255184851"/>
+					<attvalue for="6" value="0.000526870389884088"/>
+					<attvalue for="9" value="0.000363768643142961"/>
+					<attvalue for="8" value="0.000595238095238095"/>
+				</attvalues>
+			</node>
+		</nodes>
+		<edges/>
+	</graph>
+</gexf>
